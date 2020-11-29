@@ -1,0 +1,6 @@
+\begin{Verbatim}[commandchars=\\\{\}]
+\PYG{k}{for} \PYG{n}{each} \PYG{n}{pixel}\PYG{p}{(}\PYG{n}{x2}\PYG{p}{,}\PYG{n}{y2}\PYG{p}{):}
+    \PYG{k}{for} \PYG{n}{x} \PYG{o+ow}{in} \PYG{n}{x1} \PYG{n}{to} \PYG{n}{x2}\PYG{p}{:}
+        \PYG{k}{for} \PYG{n}{y} \PYG{o+ow}{in} \PYG{n}{y1} \PYG{n}{to} \PYG{n}{y2}\PYG{p}{:}
+            \PYG{n+nb}{sum} \PYG{o}{+=} \PYG{n}{Arr}\PYG{p}{[}\PYG{n}{x}\PYG{p}{][}\PYG{n}{y}\PYG{p}{]}
+\end{Verbatim}
