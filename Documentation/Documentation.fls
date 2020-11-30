@@ -138,6 +138,9 @@ INPUT ./images/photo2.png
 INPUT ./images/selectedFeatures.png
 INPUT ./images/selectedFeatures.png
 INPUT ./images/selectedFeatures.png
+INPUT ./images/cascade.png
+INPUT ./images/cascade.png
+INPUT ./images/cascade.png
 INPUT Documentation.aux
 INPUT Documentation.pyg
 INPUT /home/liam/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk

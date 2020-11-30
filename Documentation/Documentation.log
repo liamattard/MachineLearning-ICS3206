@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.2)  29 NOV 2020 23:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.2)  30 NOV 2020 00:35
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -241,7 +241,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <./images/sampleOne.png, id=1, 306.14375pt x 302.12875pt>
 File: ./images/sampleOne.png Graphic file (type png)
 <use ./images/sampleOne.png>
-Package pdftex.def Info: ./images/sampleOne.png  used on input line 51.
+Package pdftex.def Info: ./images/sampleOne.png  used on input line 50.
 (pdftex.def)             Requested size: 91.84383pt x 90.63931pt.
  [1
 
@@ -249,14 +249,14 @@ Package pdftex.def Info: ./images/sampleOne.png  used on input line 51.
 <./images/features.png, id=12, 835.12pt x 242.9075pt>
 File: ./images/features.png Graphic file (type png)
 <use ./images/features.png>
-Package pdftex.def Info: ./images/features.png  used on input line 62.
+Package pdftex.def Info: ./images/features.png  used on input line 61.
 (pdftex.def)             Requested size: 250.53793pt x 72.8728pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 79.
+(Font)              <12> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 78.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 78.
  [2 <./images/sampleOne.png> <./images/features.png (PNG copy)>]
 \openout3 = `Documentation.pyg'.
 
@@ -264,12 +264,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 <./images/photo1.png, id=23, 212.795pt x 191.71625pt>
 File: ./images/photo1.png Graphic file (type png)
 <use ./images/photo1.png>
-Package pdftex.def Info: ./images/photo1.png  used on input line 126.
+Package pdftex.def Info: ./images/photo1.png  used on input line 125.
 (pdftex.def)             Requested size: 106.39723pt x 95.85788pt.
 <./images/photo2.png, id=24, 225.84375pt x 201.75375pt>
 File: ./images/photo2.png Graphic file (type png)
 <use ./images/photo2.png>
-Package pdftex.def Info: ./images/photo2.png  used on input line 132.
+Package pdftex.def Info: ./images/photo2.png  used on input line 131.
 (pdftex.def)             Requested size: 112.92159pt x 100.87662pt.
 
 
@@ -279,25 +279,31 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <./images/selectedFeatures.png, id=30, 767.86874pt x 448.67625pt>
 File: ./images/selectedFeatures.png Graphic file (type png)
 <use ./images/selectedFeatures.png>
-Package pdftex.def Info: ./images/selectedFeatures.png  used on input line 173.
+Package pdftex.def Info: ./images/selectedFeatures.png  used on input line 172.
 (pdftex.def)             Requested size: 230.3624pt x 134.60391pt.
- [4 <./images/photo2.png>] [5 <./images/selectedFeatures.png>] (./Documentation.aux)
+ [4 <./images/photo2.png>]
+<./images/cascade.png, id=35, 758.835pt x 417.56pt>
+File: ./images/cascade.png Graphic file (type png)
+<use ./images/cascade.png>
+Package pdftex.def Info: ./images/cascade.png  used on input line 190.
+(pdftex.def)             Requested size: 227.65225pt x 125.26895pt.
+ [5 <./images/selectedFeatures.png> <./images/cascade.png>] (./Documentation.aux)
 runsystem(rm Documentation.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 5299 strings out of 483183
- 94868 string characters out of 5966293
+ 5305 strings out of 483183
+ 94989 string characters out of 5966293
  373519 words of memory out of 5000000
- 20234 multiletter control sequences out of 15000+600000
+ 20239 multiletter control sequences out of 15000+600000
  538012 words of font info for 43 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,8n,37p,910b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
  </home/liam/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Documentation.pdf (5 pages, 151940 bytes).
+Output written on Documentation.pdf (5 pages, 186418 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 77 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -32,8 +32,7 @@
                 and generates efficient classifiers.
                 \item The image is then passed through several filters, 
                 referred to as a "cascade structure” which is, in essence, a
-                degenerate decision tree. Each filter focuses more on the
-                object itself and ignores the noise.
+                degenerate decision tree. 
 
             \end{itemize}
             This paper’s detector was tested on 384 by 288 images at 15 frames
@@ -178,8 +177,19 @@ for each pixel(x2,y2):
                 \end{figure}
 
         \subsection{Cascade of Classifiers}
-        ,
+            The third part of the algortihm places the previous features
+            in a form of ranking stages where an image would have to
+            pass through all of the stages in order to result positive
+            (ie. contain the object/face).
+            This increases performance by avoiding counting all the features
+            for parts of the image which are definetly negative, if the
+            image fails to pass through the first feature, it fails.
+                
 
+            \begin{figure}[h]
+            \includegraphics[scale=0.3]{cascade.png}
+            \centering
+            \end{figure}
                 
 
 \end{document}
