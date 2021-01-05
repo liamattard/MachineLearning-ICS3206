@@ -1,9 +1,4 @@
-from distutils.core import setup
+from tools import writeNegativeTxt
 
-setup(name='MachineLearningICS3206',
-      version='1.0',
-      description='ICS3206 Assignment',
-      author='Liam Attard',
-      author_email='liam.attard.18@um.edu.mt',
-      packages=['distutils', 'distutils.command'],
-     )
+if __name__ == "__main__":
+    writeNegativeTxt()
