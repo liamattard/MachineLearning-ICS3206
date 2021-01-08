@@ -1,506 +1,626 @@
-Dataset/faces/pic00001.jpg 1 214 184 74 70
-Dataset/faces/pic00002.jpg 1 81 54 44 52
-Dataset/faces/pic00005.jpg 1 33 66 98 85
-Dataset/faces/pic00006.jpg 1 68 41 41 32
-Dataset/faces/pic00007.jpg 1 59 70 91 84
-Dataset/faces/pic00008.jpg 1 81 59 81 117
-Dataset/faces/pic00009.jpg 1 51 46 56 51
-Dataset/faces/pic00010.jpg 1 63 86 88 92
-Dataset/faces/pic00011.jpg 1 131 35 53 44
-Dataset/faces/pic00012.jpg 1 140 40 34 31
-Dataset/faces/pic00013.jpg 1 162 135 194 199
-Dataset/faces/pic00016.jpg 1 27 44 54 65
-Dataset/faces/pic00018.jpg 1 48 44 58 56
-Dataset/faces/pic00019.jpg 1 61 88 78 93
-Dataset/faces/pic00020.jpg 1 130 38 49 42
-Dataset/faces/pic00021.jpg 1 265 193 60 66
-Dataset/faces/pic00023.jpg 1 138 34 35 39
-Dataset/faces/pic00024.jpg 1 156 135 185 180
-Dataset/faces/pic00026.jpg 1 68 33 22 25
-Dataset/faces/pic00029.jpg 1 21 53 60 56
-Dataset/faces/pic00032.jpg 1 34 34 51 44
-Dataset/faces/pic00033.jpg 1 17 55 45 44
-Dataset/faces/pic00034.jpg 2 91 95 42 48 265 88 32 57
-Dataset/faces/pic00035.jpg 4 100 24 23 29 35 56 35 28 167 76 33 32 167 76 33 32
-Dataset/faces/pic00036.jpg 1 100 55 80 109
-Dataset/faces/pic00037.jpg 9 153 53 24 20 197 66 27 26 117 74 30 26 77 55 25 25 46 83 26 22 12 54 22 25 31 34 20 21 91 13 19 22 169 29 30 23
-Dataset/faces/pic00040.jpg 1 41 44 54 64
-Dataset/faces/pic00042.jpg 0
-Dataset/faces/pic00043.jpg 1 26 68 94 97
-Dataset/faces/pic00044.jpg 1 122 137 141 142
-Dataset/faces/pic00045.jpg 1 27 48 50 56
-Dataset/faces/pic00048.jpg 1 380 164 133 144
-Dataset/faces/pic00049.jpg 1 108 85 36 34
-Dataset/faces/pic00050.jpg 1 43 66 86 68
-Dataset/faces/pic00051.jpg 1 80 65 47 45
-Dataset/faces/pic00054.jpg 1 50 78 65 57
-Dataset/faces/pic00055.jpg 1 40 49 72 60
-Dataset/faces/pic00056.jpg 1 408 76 41 48
-Dataset/faces/pic00057.jpg 1 169 158 110 90
-Dataset/faces/pic00058.jpg 1 74 96 86 71
-Dataset/faces/pic00059.jpg 1 35 73 68 66
-Dataset/faces/pic00060.jpg 1 75 34 163 137
-Dataset/faces/pic00061.jpg 1 78 15 29 26
-Dataset/faces/pic00062.jpg 1 115 59 107 91
-Dataset/faces/pic00064.jpg 1 129 93 59 51
-Dataset/faces/pic00066.jpg 1 132 164 38 26
-Dataset/faces/pic00067.jpg 1 247 113 53 46
-Dataset/faces/pic00068.jpg 1 77 64 53 50
-Dataset/faces/pic00069.jpg 1 83 41 44 35
-Dataset/faces/pic00072.jpg 2 57 43 52 46 192 101 34 43
-Dataset/faces/pic00073.jpg 1 62 195 259 259
-Dataset/faces/pic00075.jpg 1 881 314 87 84
-Dataset/faces/pic00076.jpg 4 152 64 24 32 85 89 24 26 34 62 34 24 207 55 27 34
-Dataset/faces/pic00077.jpg 1 139 60 78 80
-Dataset/faces/pic00078.jpg 1 49 50 80 60
-Dataset/faces/pic00079.jpg 2 120 32 56 62 70 51 33 31
-Dataset/faces/pic00080.jpg 1 107 56 26 27
-Dataset/faces/pic00081.jpg 1 319 109 53 71
-Dataset/faces/pic00083.jpg 1 5 116 132 111
-Dataset/faces/pic00084.jpg 1 285 88 65 76
-Dataset/faces/pic00085.jpg 1 22 86 124 121
-Dataset/faces/pic00088.jpg 1 62 81 123 129
-Dataset/faces/pic00092.jpg 1 137 58 25 27
-Dataset/faces/pic00093.jpg 1 88 45 40 36
-Dataset/faces/pic00095.jpg 1 83 42 75 68
-Dataset/faces/pic00096.jpg 1 52 54 81 61
-Dataset/faces/pic00097.jpg 2 251 139 38 36 604 137 36 33
-Dataset/faces/pic00099.jpg 1 320 47 38 41
-Dataset/faces/pic00100.jpg 1 90 121 131 188
-Dataset/faces/pic00101.jpg 1 244 406 373 391
-Dataset/faces/pic00102.jpg 3 108 64 69 53 234 81 57 50 390 152 49 48
-Dataset/faces/pic00103.jpg 1 65 21 20 22
-Dataset/faces/pic00104.jpg 1 129 144 117 118
-Dataset/faces/pic00105.jpg 1 113 54 26 34
-Dataset/faces/pic00106.jpg 1 76 93 76 69
-Dataset/faces/pic00107.jpg 1 51 31 44 49
-Dataset/faces/pic00108.jpg 1 53 53 40 32
-Dataset/faces/pic00110.jpg 2 138 139 54 54 218 81 53 57
-Dataset/faces/pic00111.jpg 1 99 77 47 45
-Dataset/faces/pic00112.jpg 1 83 27 25 24
-Dataset/faces/pic00113.jpg 1 65 60 90 73
-Dataset/faces/pic00116.jpg 1 40 62 56 62
-Dataset/faces/pic00117.jpg 1 59 50 19 23
-Dataset/faces/pic00118.jpg 1 505 387 287 249
-Dataset/faces/pic00119.jpg 1 57 51 62 75
-Dataset/faces/pic00121.jpg 1 145 100 57 64
-Dataset/faces/pic00122.jpg 1 66 108 47 44
-Dataset/faces/pic00123.jpg 12 71 74 29 24 97 68 24 20 129 83 24 18 162 87 23 23 198 84 16 17 220 96 22 14 271 85 22 21 294 96 23 15 318 101 29 16 349 86 24 20 388 94 19 21 428 83 23 24
-Dataset/faces/pic00124.jpg 1 49 50 63 71
-Dataset/faces/pic00125.jpg 1 104 67 92 67
-Dataset/faces/pic00126.jpg 1 57 83 40 33
-Dataset/faces/pic00127.jpg 1 30 67 93 65
-Dataset/faces/pic00128.jpg 1 43 54 58 59
-Dataset/faces/pic00132.jpg 1 53 70 58 47
-Dataset/faces/pic00133.jpg 1 72 90 45 43
-Dataset/faces/pic00134.jpg 1 52 49 56 51
-Dataset/faces/pic00135.jpg 1 49 58 72 99
-Dataset/faces/pic00136.jpg 2 91 104 51 52 56 1 69 58
-Dataset/faces/pic00138.jpg 1 88 53 35 30
-Dataset/faces/pic00139.jpg 2 294 483 63 73 295 412 52 48
-Dataset/faces/pic00142.jpg 1 44 142 173 152
-Dataset/faces/pic00147.jpg 1 70 46 42 40
-Dataset/faces/pic00150.jpg 1 63 59 60 54
-Dataset/faces/pic00152.jpg 1 103 88 53 38
-Dataset/faces/pic00153.jpg 1 281 292 104 98
-Dataset/faces/pic00154.jpg 1 41 47 52 48
-Dataset/faces/pic00156.jpg 1 81 71 22 14
-Dataset/faces/pic00157.jpg 1 51 55 45 45
-Dataset/faces/pic00158.jpg 1 256 157 138 148
-Dataset/faces/pic00160.jpg 1 48 80 73 58
-Dataset/faces/pic00161.jpg 1 75 89 130 149
-Dataset/faces/pic00163.jpg 1 311 97 125 132
-Dataset/faces/pic00165.jpg 2 86 18 32 27 35 26 30 25
-Dataset/faces/pic00166.jpg 2 48 32 41 35 99 58 37 34
-Dataset/faces/pic00168.jpg 1 160 279 165 146
-Dataset/faces/pic00171.jpg 1 84 106 118 98
-Dataset/faces/pic00174.jpg 1 101 57 44 34
-Dataset/faces/pic00175.jpg 1 53 59 81 72
-Dataset/faces/pic00176.jpg 1 77 96 70 65
-Dataset/faces/pic00180.jpg 2 52 48 43 44 52 48 43 44
-Dataset/faces/pic00184.jpg 1 84 27 24 23
-Dataset/faces/pic00187.jpg 1 92 62 46 44
-Dataset/faces/pic00193.jpg 1 62 63 32 42
-Dataset/faces/pic00198.jpg 1 108 61 65 62
-Dataset/faces/pic00200.jpg 12 77 69 24 25 98 63 24 25 128 81 24 21 162 87 23 22 199 86 15 15 273 84 19 20 222 94 21 26 299 93 24 16 322 96 22 21 354 88 18 25 389 92 22 24 430 83 20 22
-Dataset/faces/pic00201.jpg 1 41 58 72 69
-Dataset/faces/pic00202.jpg 1 117 67 67 69
-Dataset/faces/pic00203.jpg 1 140 33 23 24
-Dataset/faces/pic00204.jpg 1 63 85 29 32
-Dataset/faces/pic00205.jpg 1 120 41 31 30
-Dataset/faces/pic00207.jpg 2 110 47 47 54 150 89 60 43
-Dataset/faces/pic00211.jpg 1 206 112 58 66
-Dataset/faces/pic00213.jpg 1 72 21 58 64
-Dataset/faces/pic00214.jpg 1 58 41 36 37
-Dataset/faces/pic00216.jpg 1 225 122 112 102
-Dataset/faces/pic00217.jpg 4 227 44 37 42 105 80 37 45 401 58 22 31 457 47 25 24
-Dataset/faces/pic00218.jpg 1 111 67 73 63
-Dataset/faces/pic00219.jpg 1 54 48 66 80
-Dataset/faces/pic00221.jpg 1 50 80 106 72
-Dataset/faces/pic00223.jpg 1 57 88 99 116
-Dataset/faces/pic00224.jpg 1 240 263 138 104
-Dataset/faces/pic00225.jpg 1 136 71 39 35
-Dataset/faces/pic00227.jpg 1 37 84 94 108
-Dataset/faces/pic00229.jpg 1 65 28 61 65
-Dataset/faces/pic00230.jpg 1 121 90 74 55
-Dataset/faces/pic00231.jpg 2 131 90 51 54 247 43 52 47
-Dataset/faces/pic00235.jpg 1 86 38 24 29
-Dataset/faces/pic00237.jpg 1 60 36 34 31
-Dataset/faces/pic00240.jpg 1 90 40 43 35
-Dataset/faces/pic00241.jpg 3 111 167 26 29 173 167 28 27 225 158 24 27
-Dataset/faces/pic00244.jpg 1 64 65 35 32
-Dataset/faces/pic00245.jpg 1 49 133 177 159
-Dataset/faces/pic00248.jpg 1 92 70 54 62
-Dataset/faces/pic00253.jpg 1 78 42 43 41
-Dataset/faces/pic00255.jpg 6 172 29 24 19 134 13 22 22 90 15 18 24 48 20 20 21 0 0 0 0 0 7 24 39
-Dataset/faces/pic00257.jpg 1 173 154 70 68
-Dataset/faces/pic00258.jpg 1 55 77 99 95
-Dataset/faces/pic00259.jpg 1 60 79 78 70
-Dataset/faces/pic00260.jpg 1 51 25 48 41
-Dataset/faces/pic00263.jpg 1 52 57 43 37
-Dataset/faces/pic00264.jpg 1 256 161 140 137
-Dataset/faces/pic00265.jpg 1 55 87 80 84
-Dataset/faces/pic00266.jpg 1 60 37 32 29
-Dataset/faces/pic00267.jpg 1 41 54 26 22
-Dataset/faces/pic00270.jpg 11 19 66 22 18 55 63 17 15 85 70 20 16 86 32 16 16 115 26 20 21 123 53 22 18 122 76 17 21 140 80 20 20 161 64 20 16 188 58 21 15 163 46 12 16
-Dataset/faces/pic00271.jpg 1 59 80 48 52
-Dataset/faces/pic00273.jpg 1 315 108 114 106
-Dataset/faces/pic00276.jpg 2 47 32 42 32 97 60 41 38
-Dataset/faces/pic00277.jpg 1 110 65 105 110
-Dataset/faces/pic00278.jpg 1 234 225 91 85
-Dataset/faces/pic00282.jpg 1 389 275 268 236
-Dataset/faces/pic00284.jpg 1 68 159 168 204
-Dataset/faces/pic00289.jpg 1 648 364 138 121
-Dataset/faces/pic00291.jpg 1 95 53 58 51
-Dataset/faces/pic00292.jpg 1 264 123 207 187
-Dataset/faces/pic00293.jpg 1 110 46 46 37
-Dataset/faces/pic00295.jpg 1 6 122 71 65
-Dataset/faces/pic00296.jpg 1 109 153 116 99
-Dataset/faces/pic00297.jpg 1 58 64 63 62
-Dataset/faces/pic00300.jpg 13 31 55 17 17 89 72 21 20 136 63 22 19 196 78 25 19 261 84 27 19 157 38 24 19 409 76 30 20 369 64 25 19 334 49 21 18 306 69 20 18 283 51 23 21 240 57 21 23 401 49 19 24
-Dataset/faces/pic00301.jpg 1 65 130 132 132
-Dataset/faces/pic00304.jpg 1 85 87 68 63
-Dataset/faces/pic00306.jpg 1 56 85 83 83
-Dataset/faces/pic00307.jpg 1 78 126 108 98
-Dataset/faces/pic00308.jpg 1 177 23 34 38
-Dataset/faces/pic00311.jpg 1 10 80 91 91
-Dataset/faces/pic00312.jpg 1 81 114 60 53
-Dataset/faces/pic00316.jpg 1 39 48 55 47
-Dataset/faces/pic00317.jpg 1 33 64 63 53
-Dataset/faces/pic00320.jpg 1 42 60 67 55
-Dataset/faces/pic00322.jpg 1 37 61 73 74
-Dataset/faces/pic00326.jpg 2 288 240 35 39 394 259 29 35
-Dataset/faces/pic00327.jpg 1 95 52 78 88
-Dataset/faces/pic00329.jpg 1 31 47 73 72
-Dataset/faces/pic00330.jpg 1 43 36 47 35
-Dataset/faces/pic00331.jpg 1 84 65 66 65
-Dataset/faces/pic00336.jpg 1 93 67 77 78
-Dataset/faces/pic00337.jpg 2 195 40 17 17 65 60 16 16
-Dataset/faces/pic00338.jpg 16 390 159 31 34 325 174 24 29 266 161 28 28 210 165 22 24 152 164 26 20 88 155 25 22 46 152 24 29 71 90 24 25 385 75 25 32 336 83 23 29 321 58 21 27 262 80 26 25 210 74 19 28 157 89 24 20 140 86 15 21 115 86 21 21
-Dataset/faces/pic00341.jpg 2 205 160 26 25 448 148 42 36
-Dataset/faces/pic00342.jpg 1 72 73 29 34
-Dataset/faces/pic00343.jpg 1 60 75 51 46
-Dataset/faces/pic00349.jpg 1 50 69 74 67
-Dataset/faces/pic00352.jpg 1 37 29 36 47
-Dataset/faces/pic00355.jpg 1 58 94 114 111
-Dataset/faces/pic00357.jpg 2 121 141 40 34 56 139 26 27
-Dataset/faces/pic00359.jpg 1 179 103 110 119
-Dataset/faces/pic00364.jpg 2 38 59 37 34 111 70 33 28
-Dataset/faces/pic00368.jpg 1 44 60 92 82
-Dataset/faces/pic00369.jpg 8 78 102 22 19 213 91 19 17 139 154 17 15 165 65 14 12 112 68 14 11 143 13 14 15 64 47 16 14 18 72 20 18
-Dataset/faces/pic00370.jpg 2 157 109 73 66 414 141 68 78
-Dataset/faces/pic00371.jpg 1 55 33 21 19
-Dataset/faces/pic00372.jpg 1 65 26 19 16
-Dataset/faces/pic00376.jpg 1 176 61 21 21
-Dataset/faces/pic00381.jpg 1 41 63 52 55
-Dataset/faces/pic00382.jpg 1 30 65 55 50
-Dataset/faces/pic00385.jpg 1 75 68 49 39
-Dataset/faces/pic00389.jpg 1 121 80 43 38
-Dataset/faces/pic00390.jpg 0
-Dataset/faces/pic00392.jpg 1 60 53 76 67
-Dataset/faces/pic00394.jpg 2 92 177 71 63 402 187 64 61
-Dataset/faces/pic00396.jpg 1 102 94 57 61
-Dataset/faces/pic00397.jpg 6 73 61 35 38 124 48 32 30 175 68 33 33 225 82 29 27 264 62 38 38 313 54 40 36
-Dataset/faces/pic00399.jpg 1 71 84 96 101
-Dataset/faces/pic00400.jpg 1 63 30 39 46
-Dataset/faces/pic00401.jpg 1 59 26 29 23
-Dataset/faces/pic00402.jpg 5 30 61 19 20 58 42 20 22 96 38 24 31 177 46 21 24 224 62 31 26
-Dataset/faces/pic00406.jpg 2 212 175 36 46 299 147 40 51
-Dataset/faces/pic00407.jpg 1 116 67 89 101
-Dataset/faces/pic00408.jpg 1 125 96 21 26
-Dataset/faces/pic00411.jpg 1 293 139 46 50
-Dataset/faces/pic00414.jpg 1 74 74 81 89
-Dataset/faces/pic00416.jpg 1 99 63 63 62
-Dataset/faces/pic00417.jpg 1 54 62 50 42
-Dataset/faces/pic00418.jpg 1 266 39 41 39
-Dataset/faces/pic00419.jpg 1 64 44 41 33
-Dataset/faces/pic00421.jpg 1 209 144 22 22
-Dataset/faces/pic00423.jpg 2 197 103 95 103 320 172 92 111
-Dataset/faces/pic00424.jpg 1 77 42 52 55
-Dataset/faces/pic00425.jpg 1 74 69 70 60
-Dataset/faces/pic00426.jpg 2 179 41 46 41 42 44 49 42
-Dataset/faces/pic00432.jpg 1 79 43 43 36
-Dataset/faces/pic00434.jpg 5 49 21 21 18 87 17 22 24 131 14 22 21 172 31 22 20 1 4 21 46
-Dataset/faces/pic00435.jpg 1 77 37 53 45
-Dataset/faces/pic00438.jpg 1 170 153 66 62
-Dataset/faces/pic00439.jpg 1 52 65 99 102
-Dataset/faces/pic00440.jpg 1 46 89 100 82
-Dataset/faces/pic00441.jpg 1 47 22 56 44
-Dataset/faces/pic00442.jpg 1 170 35 18 28
-Dataset/faces/pic00447.jpg 1 121 80 78 86
-Dataset/faces/pic00448.jpg 1 111 57 32 32
-Dataset/faces/pic00450.jpg 1 88 16 33 36
-Dataset/faces/pic00452.jpg 2 138 32 37 32 66 29 25 31
-Dataset/faces/pic00453.jpg 2 223 93 31 32 440 108 34 46
-Dataset/faces/pic00457.jpg 2 125 33 66 53 22 43 63 56
-Dataset/faces/pic00461.jpg 2 67 82 86 79 222 55 76 86
-Dataset/faces/pic00462.jpg 1 73 44 75 69
-Dataset/faces/pic00463.jpg 1 46 79 107 110
-Dataset/faces/pic00467.jpg 17 104 165 46 41 154 159 32 41 188 140 34 32 238 127 38 32 293 146 33 32 347 162 42 31 402 167 43 42 444 167 40 44 442 31 32 34 364 40 35 33 315 65 33 28 276 50 31 30 231 62 26 27 202 72 30 34 163 57 33 27 119 64 32 28 52 69 36 33
-Dataset/faces/pic00468.jpg 1 56 36 39 38
-Dataset/faces/pic00469.jpg 2 163 101 30 26 242 94 29 32
-Dataset/faces/pic00471.jpg 1 138 86 81 103
-Dataset/faces/pic00472.jpg 1 248 213 83 90
-Dataset/faces/pic00476.jpg 1 415 275 231 238
-Dataset/faces/pic00477.jpg 1 36 79 88 112
-Dataset/faces/pic00478.jpg 1 67 50 53 51
-Dataset/faces/pic00480.jpg 1 76 155 177 193
-Dataset/faces/pic00486.jpg 1 33 54 94 81
-Dataset/faces/pic00490.jpg 1 116 74 90 96
-Dataset/faces/pic00491.jpg 1 46 87 122 104
-Dataset/faces/pic00494.jpg 1 92 47 35 28
-Dataset/faces/pic00495.jpg 1 15 24 25 22
-Dataset/faces/pic00496.jpg 2 92 113 34 33 58 30 27 23
-Dataset/faces/pic00498.jpg 1 31 47 59 55
-Dataset/faces/pic00499.jpg 1 50 54 58 62
-Dataset/faces/pic00500.jpg 1 23 11 35 42
-Dataset/faces/pic00506.jpg 1 84 84 68 71
-Dataset/faces/pic00507.jpg 1 57 69 58 60
-Dataset/faces/pic00508.jpg 1 58 87 76 85
-Dataset/faces/pic00509.jpg 1 79 132 117 97
-Dataset/faces/pic00511.jpg 1 37 78 30 31
-Dataset/faces/pic00512.jpg 1 177 22 33 36
-Dataset/faces/pic00513.jpg 3 48 34 38 39 163 66 38 38 236 76 43 41
-Dataset/faces/pic00517.jpg 1 264 172 134 121
-Dataset/faces/pic00518.jpg 1 13 77 94 84
-Dataset/faces/pic00519.jpg 1 81 110 65 53
-Dataset/faces/pic00523.jpg 1 44 54 52 57
-Dataset/faces/pic00524.jpg 1 32 43 66 58
-Dataset/faces/pic00525.jpg 1 31 57 63 65
-Dataset/faces/pic00529.jpg 1 40 53 70 60
-Dataset/faces/pic00531.jpg 1 37 55 78 78
-Dataset/faces/pic00534.jpg 1 39 48 60 50
-Dataset/faces/pic00537.jpg 2 288 242 35 40 390 259 39 33
-Dataset/faces/pic00538.jpg 1 87 65 94 76
-Dataset/faces/pic00541.jpg 1 37 47 74 64
-Dataset/faces/pic00542.jpg 1 52 36 34 37
-Dataset/faces/pic00543.jpg 1 79 69 72 64
-Dataset/faces/pic00544.jpg 1 61 56 30 22
-Dataset/faces/pic00546.jpg 1 195 17 26 28
-Dataset/faces/pic00547.jpg 2 88 283 88 76 194 422 114 85
-Dataset/faces/pic00549.jpg 1 87 67 74 72
-Dataset/faces/pic00550.jpg 2 61 61 21 16 191 38 21 17
-Dataset/faces/pic00551.jpg 1 149 89 82 69
-Dataset/faces/pic00553.jpg 1 78 31 25 32
-Dataset/faces/pic00554.jpg 5 180 51 23 25 104 50 21 23 64 50 20 22 38 67 16 19 231 71 29 23
-Dataset/faces/pic00558.jpg 1 252 52 56 80
-Dataset/faces/pic00559.jpg 2 86 63 65 64 267 70 61 71
-Dataset/faces/pic00560.jpg 14 49 159 23 20 83 156 27 20 153 162 24 20 208 166 25 24 268 166 24 20 325 174 26 24 388 163 32 27 383 81 28 28 331 87 25 24 320 63 25 22 260 84 27 23 204 75 26 24 157 88 23 22 137 87 21 20
-Dataset/faces/pic00561.jpg 1 74 69 85 77
-Dataset/faces/pic00562.jpg 1 40 46 66 71
-Dataset/faces/pic00563.jpg 1 192 99 85 61
-Dataset/faces/pic00564.jpg 1 74 77 70 69
-Dataset/faces/pic00565.jpg 1 227 90 56 69
-Dataset/faces/pic00566.jpg 1 26 23 28 29
-Dataset/faces/pic00567.jpg 1 33 61 97 111
-Dataset/faces/pic00569.jpg 1 31 41 46 42
-Dataset/faces/pic00571.jpg 1 35 69 74 66
-Dataset/faces/pic00572.jpg 1 58 53 93 103
-Dataset/faces/pic00573.jpg 0
-Dataset/faces/pic00574.jpg 1 12 41 47 43
-Dataset/faces/pic00576.jpg 1 110 69 59 57
-Dataset/faces/pic00578.jpg 1 32 70 75 77
-Dataset/faces/pic00579.jpg 1 35 32 40 46
-Dataset/faces/pic00583.jpg 1 62 99 110 102
-Dataset/faces/pic00585.jpg 0
-Dataset/faces/pic00587.jpg 1 64 56 47 50
-Dataset/faces/pic00588.jpg 1 191 111 97 126
-Dataset/faces/pic00589.jpg 1 180 26 29 23
-Dataset/faces/pic00590.jpg 2 373 124 103 107 164 286 85 66
-Dataset/faces/pic00592.jpg 2 161 72 118 126 29 75 55 73
-Dataset/faces/pic00597.jpg 2 37 56 40 40 114 65 32 39
-Dataset/faces/pic00600.jpg 10 404 170 49 57 107 82 45 47 157 102 41 40 263 87 44 47 340 91 59 45 456 86 55 47 537 119 52 44 639 66 46 45 571 289 52 69 207 202 57 53
-Dataset/faces/pic00601.jpg 1 45 50 34 40
-Dataset/faces/pic00603.jpg 1 48 59 81 90
-Dataset/faces/pic00604.jpg 9 80 102 17 20 135 149 21 23 209 89 26 22 164 61 15 17 138 14 22 18 63 43 18 21 108 64 22 19 19 71 23 22 19 71 23 22
-Dataset/faces/pic00605.jpg 2 152 106 84 68 406 148 81 65
-Dataset/faces/pic00606.jpg 1 66 36 54 40
-Dataset/faces/pic00607.jpg 1 55 27 24 29
-Dataset/faces/pic00608.jpg 4 58 36 32 32 117 36 26 28 177 50 22 26 213 37 29 25
-Dataset/faces/pic00610.jpg 0
-Dataset/faces/pic00615.jpg 1 174 61 24 22
-Dataset/faces/pic00620.jpg 1 94 11 28 35
-Dataset/faces/pic00621.jpg 1 85 148 56 77
-Dataset/faces/pic00625.jpg 1 35 61 62 62
-Dataset/faces/pic00626.jpg 1 24 62 65 62
-Dataset/faces/pic00627.jpg 1 129 79 28 31
-Dataset/faces/pic00628.jpg 2 132 28 27 24 70 63 28 23
-Dataset/faces/pic00631.jpg 1 76 63 51 44
-Dataset/faces/pic00633.jpg 1 64 55 70 84
-Dataset/faces/pic00638.jpg 1 120 73 48 48
-Dataset/faces/pic00639.jpg 0
-Dataset/faces/pic00641.jpg 1 58 46 82 77
-Dataset/faces/pic00642.jpg 1 65 44 46 55
-Dataset/faces/pic00648.jpg 1 97 90 69 72
-Dataset/faces/pic00649.jpg 6 70 53 41 47 124 48 38 33 173 67 35 32 224 75 32 33 260 55 49 44 315 50 36 39
-Dataset/faces/pic00651.jpg 1 71 85 98 94
-Dataset/faces/pic00652.jpg 1 57 26 46 47
-Dataset/faces/pic00653.jpg 1 60 26 27 22
-Dataset/faces/pic00656.jpg 2 187 102 77 71 349 124 52 59
-Dataset/faces/pic00657.jpg 1 40 83 103 90
-Dataset/faces/pic00661.jpg 2 208 173 49 49 297 151 50 50
-Dataset/faces/pic00662.jpg 1 122 69 93 95
-Dataset/faces/pic00665.jpg 1 188 162 334 314
-Dataset/faces/pic00669.jpg 0
-Dataset/faces/pic00671.jpg 2 77 250 107 100 319 200 127 95
-Dataset/faces/pic00672.jpg 1 231 263 151 111
-Dataset/faces/pic00673.jpg 1 132 68 45 37
-Dataset/faces/pic00674.jpg 1 27 90 115 112
-Dataset/faces/pic00675.jpg 1 68 33 57 56
-Dataset/faces/pic00676.jpg 1 123 82 74 71
-Dataset/faces/pic00677.jpg 1 9 9 28 30
-Dataset/faces/pic00678.jpg 2 117 76 73 73 245 31 73 71
-Dataset/faces/pic00681.jpg 1 84 35 24 33
-Dataset/faces/pic00682.jpg 1 61 31 34 37
-Dataset/faces/pic00684.jpg 1 85 38 52 38
-Dataset/faces/pic00685.jpg 3 111 163 27 33 170 162 32 39 229 160 26 27
-Dataset/faces/pic00687.jpg 1 6 15 55 52
-Dataset/faces/pic00688.jpg 1 36 40 57 54
-Dataset/faces/pic00691.jpg 1 20 22 44 38
-Dataset/faces/pic00692.jpg 2 55 125 45 69 138 46 37 55
-Dataset/faces/pic00693.jpg 1 10 2 49 46
-Dataset/faces/pic00694.jpg 1 29 29 50 51
-Dataset/faces/pic00695.jpg 1 108 130 43 45
-Dataset/faces/pic00696.jpg 1 17 44 73 54
-Dataset/faces/pic00697.jpg 1 30 27 56 48
-Dataset/faces/pic00698.jpg 1 26 25 40 39
-Dataset/faces/pic00699.jpg 1 33 77 108 94
-Dataset/faces/pic00700.jpg 1 38 48 31 34
-Dataset/faces/pic00703.jpg 11 21 66 20 19 54 63 19 17 84 33 19 18 82 68 24 18 122 79 17 15 145 83 13 17 163 62 18 17 188 55 19 19 162 50 18 12 122 59 23 15 114 28 24 20
-Dataset/faces/pic00705.jpg 1 39 23 35 30
-Dataset/faces/pic00706.jpg 1 55 47 47 46
-Dataset/faces/pic00708.jpg 2 39 21 33 41 103 16 37 38
-Dataset/faces/pic00709.jpg 1 40 36 46 54
-Dataset/faces/pic00710.jpg 1 167 240 297 363
-Dataset/faces/pic00711.jpg 1 5 154 36 46
-Dataset/faces/pic00712.jpg 1 21 27 47 51
-Dataset/faces/pic00715.jpg 1 30 54 58 61
-Dataset/faces/pic00716.jpg 1 138 83 138 106
-Dataset/faces/pic00717.jpg 1 45 42 43 52
-Dataset/faces/pic00719.jpg 1 589 200 73 82
-Dataset/faces/pic00720.jpg 1 77 153 20 32
-Dataset/faces/pic00726.jpg 1 47 32 70 51
-Dataset/faces/pic00727.jpg 0
-Dataset/faces/pic00731.jpg 0
-Dataset/faces/pic00735.jpg 1 468 149 209 265
-Dataset/faces/pic00736.jpg 1 89 43 71 59
-Dataset/faces/pic00739.jpg 2 72 88 85 65 220 62 77 73
-Dataset/faces/pic00740.jpg 1 52 29 47 42
-Dataset/faces/pic00745.jpg 1 139 35 19 18
-Dataset/faces/pic00746.jpg 1 70 57 55 50
-Dataset/faces/pic00748.jpg 1 95 69 67 83
-Dataset/faces/pic00749.jpg 1 158 201 219 289
-Dataset/faces/pic00752.jpg 1 47 25 48 50
-Dataset/faces/pic00756.jpg 0
-Dataset/faces/pic00758.jpg 1 848 349 68 77
-Dataset/faces/pic00760.jpg 3 182 149 57 65 240 198 51 45 329 197 54 53
-Dataset/faces/pic00765.jpg 0
-Dataset/faces/pic00766.jpg 1 25 59 82 63
-Dataset/faces/pic00780.jpg 1 59 55 86 82
-Dataset/faces/pic00784.jpg 1 202 228 227 280
-Dataset/faces/pic00785.jpg 1 18 63 94 80
-Dataset/faces/pic00786.jpg 2 49 24 37 47 152 76 37 35
-Dataset/faces/pic00787.jpg 1 126 64 87 78
-Dataset/faces/pic00789.jpg 1 50 48 80 91
-Dataset/faces/pic00790.jpg 1 58 60 42 38
-Dataset/faces/pic00791.jpg 1 39 50 66 60
-Dataset/faces/pic00792.jpg 1 57 75 67 67
-Dataset/faces/pic00793.jpg 1 112 50 100 93
-Dataset/faces/pic00796.jpg 1 81 112 205 203
-Dataset/faces/pic00797.jpg 1 62 51 77 62
-Dataset/faces/pic00798.jpg 1 72 63 64 59
-Dataset/faces/pic00799.jpg 1 26 68 74 68
-Dataset/faces/pic00800.jpg 1 119 91 86 66
-Dataset/faces/pic00802.jpg 1 98 37 59 47
-Dataset/faces/pic00803.jpg 1 45 80 82 74
-Dataset/faces/pic00804.jpg 1 41 42 77 64
-Dataset/faces/pic00805.jpg 1 43 58 65 53
-Dataset/faces/pic00806.jpg 1 40 14 79 86
-Dataset/faces/pic00808.jpg 1 65 50 78 68
-Dataset/faces/pic00810.jpg 1 246 84 46 43
-Dataset/faces/pic00811.jpg 6 31 15 42 53 87 47 39 44 150 62 32 31 245 54 28 30 305 52 33 38 364 29 58 45
-Dataset/faces/pic00812.jpg 1 396 252 177 195
-Dataset/faces/pic00813.jpg 1 158 45 30 33
-Dataset/faces/pic00814.jpg 1 60 62 58 42
-Dataset/faces/pic00815.jpg 1 33 67 83 86
-Dataset/faces/pic00816.jpg 1 58 56 73 60
-Dataset/faces/pic00817.jpg 1 51 84 103 87
-Dataset/faces/pic00819.jpg 1 86 27 33 25
-Dataset/faces/pic00820.jpg 1 49 59 75 73
-Dataset/faces/pic00822.jpg 1 88 25 35 38
-Dataset/faces/pic00823.jpg 1 117 93 72 78
-Dataset/faces/pic00824.jpg 1 31 43 81 71
-Dataset/faces/pic00825.jpg 1 77 72 139 150
-Dataset/faces/pic00826.jpg 1 44 65 84 71
-Dataset/faces/pic00827.jpg 1 68 30 40 53
-Dataset/faces/pic00828.jpg 1 243 254 215 207
-Dataset/faces/pic00829.jpg 1 88 28 29 22
-Dataset/faces/pic00830.jpg 1 52 60 60 68
-Dataset/faces/pic00833.jpg 1 119 93 70 76
-Dataset/faces/pic00834.jpg 1 30 46 87 74
-Dataset/faces/pic00836.jpg 1 95 157 57 61
-Dataset/faces/pic00837.jpg 0
-Dataset/faces/pic00838.jpg 1 91 77 128 141
-Dataset/faces/pic00839.jpg 1 69 59 74 72
-Dataset/faces/pic00840.jpg 1 49 67 74 62
-Dataset/faces/pic00842.jpg 1 109 101 107 87
-Dataset/faces/pic00844.jpg 1 73 8 19 20
-Dataset/faces/pic00845.jpg 1 92 31 21 24
-Dataset/faces/pic00846.jpg 1 46 66 58 57
-Dataset/faces/pic00847.jpg 1 37 54 73 69
-Dataset/faces/pic00850.jpg 1 993 333 76 76
-Dataset/faces/pic00854.jpg 1 37 66 48 50
-Dataset/faces/pic00855.jpg 1 154 23 38 37
-Dataset/faces/pic00856.jpg 1 40 46 78 76
-Dataset/faces/pic00857.jpg 1 30 28 49 42
-Dataset/faces/pic00859.jpg 1 107 72 54 55
-Dataset/faces/pic00862.jpg 1 141 49 38 33
-Dataset/faces/pic00863.jpg 1 52 42 68 72
-Dataset/faces/pic00865.jpg 1 55 56 65 55
-Dataset/faces/pic00867.jpg 1 39 60 57 54
-Dataset/faces/pic00868.jpg 1 22 44 49 47
-Dataset/faces/pic00869.jpg 1 59 68 72 71
-Dataset/faces/pic00870.jpg 1 72 37 50 44
-Dataset/faces/pic00873.jpg 1 60 52 58 65
-Dataset/faces/pic00874.jpg 0
-Dataset/faces/pic00876.jpg 1 98 42 50 42
-Dataset/faces/pic00877.jpg 1 57 66 82 76
-Dataset/faces/pic00880.jpg 1 66 34 51 48
-Dataset/faces/pic00881.jpg 1 338 214 198 191
-Dataset/faces/pic00882.jpg 1 36 52 77 85
-Dataset/faces/pic00885.jpg 2 357 120 156 248 91 184 75 84
-Dataset/faces/pic00886.jpg 4 105 142 54 70 167 124 57 62 273 90 48 78 350 174 61 63
-Dataset/faces/pic00890.jpg 1 42 54 77 56
-Dataset/faces/pic00891.jpg 1 59 53 64 59
-Dataset/faces/pic00898.jpg 1 55 71 76 60
-Dataset/faces/pic00902.jpg 1 57 56 61 64
-Dataset/faces/pic00907.jpg 1 178 122 26 25
-Dataset/faces/pic00910.jpg 2 122 118 52 40 207 39 35 36
-Dataset/faces/pic00911.jpg 1 89 24 38 43
-Dataset/faces/pic00913.jpg 1 59 35 58 57
-Dataset/faces/pic00916.jpg 1 145 71 46 50
-Dataset/faces/pic00917.jpg 1 36 51 54 47
-Dataset/faces/pic00919.jpg 1 36 61 72 86
-Dataset/faces/pic00920.jpg 1 84 78 72 65
-Dataset/faces/pic00921.jpg 1 20 67 105 114
-Dataset/faces/pic00922.jpg 0
+Dataset/faces/pic00001.jpeg 1 214 184 74 70
+Dataset/faces/pic00002.jpeg 1 81 54 44 52
+Dataset/faces/pic00005.jpeg 1 33 66 98 85
+Dataset/faces/pic00006.jpeg 1 68 41 41 32
+Dataset/faces/pic00007.jpeg 1 59 70 91 84
+Dataset/faces/pic00008.jpeg 1 81 59 81 117
+Dataset/faces/pic00009.jpeg 1 51 46 56 51
+Dataset/faces/pic00010.jpeg 1 63 86 88 92
+Dataset/faces/pic00011.jpeg 1 131 35 53 44
+Dataset/faces/pic00012.jpeg 1 140 40 34 31
+Dataset/faces/pic00013.jpeg 1 162 135 194 199
+Dataset/faces/pic00016.jpeg 1 27 44 54 65
+Dataset/faces/pic00018.jpeg 1 48 44 58 56
+Dataset/faces/pic00019.jpeg 1 61 88 78 93
+Dataset/faces/pic00020.jpeg 1 130 38 49 42
+Dataset/faces/pic00021.jpeg 1 265 193 60 66
+Dataset/faces/pic00023.jpeg 1 138 34 35 39
+Dataset/faces/pic00024.jpeg 1 156 135 185 180
+Dataset/faces/pic00026.jpeg 1 68 33 22 25
+Dataset/faces/pic00029.jpeg 1 21 53 60 56
+Dataset/faces/pic00032.jpeg 1 34 34 51 44
+Dataset/faces/pic00033.jpeg 1 17 55 45 44
+Dataset/faces/pic00034.jpeg 2 91 95 42 48 265 88 32 57
+Dataset/faces/pic00035.jpeg 4 100 24 23 29 35 56 35 28 167 76 33 32 167 76 33 32
+Dataset/faces/pic00036.jpeg 1 100 55 80 109
+Dataset/faces/pic00037.jpeg 9 153 53 24 20 197 66 27 26 117 74 30 26 77 55 25 25 46 83 26 22 12 54 22 25 31 34 20 21 91 13 19 22 169 29 30 23
+Dataset/faces/pic00040.jpeg 1 41 44 54 64
+Dataset/faces/pic00043.jpeg 1 26 68 94 97
+Dataset/faces/pic00044.jpeg 1 122 137 141 142
+Dataset/faces/pic00045.jpeg 1 27 48 50 56
+Dataset/faces/pic00048.jpeg 1 380 164 133 144
+Dataset/faces/pic00049.jpeg 1 108 85 36 34
+Dataset/faces/pic00050.jpeg 1 43 66 86 68
+Dataset/faces/pic00051.jpeg 1 80 65 47 45
+Dataset/faces/pic00054.jpeg 1 50 78 65 57
+Dataset/faces/pic00055.jpeg 1 40 49 72 60
+Dataset/faces/pic00056.jpeg 1 408 76 41 48
+Dataset/faces/pic00057.jpeg 1 169 158 110 90
+Dataset/faces/pic00058.jpeg 1 74 96 86 71
+Dataset/faces/pic00059.jpeg 1 35 73 68 66
+Dataset/faces/pic00060.jpeg 1 75 34 163 137
+Dataset/faces/pic00061.jpeg 1 78 15 29 26
+Dataset/faces/pic00062.jpeg 1 115 59 107 91
+Dataset/faces/pic00064.jpeg 1 129 93 59 51
+Dataset/faces/pic00066.jpeg 1 132 164 38 26
+Dataset/faces/pic00067.jpeg 1 247 113 53 46
+Dataset/faces/pic00068.jpeg 1 77 64 53 50
+Dataset/faces/pic00069.jpeg 1 83 41 44 35
+Dataset/faces/pic00072.jpeg 2 57 43 52 46 192 101 34 43
+Dataset/faces/pic00073.jpeg 1 62 195 259 259
+Dataset/faces/pic00075.jpeg 1 881 314 87 84
+Dataset/faces/pic00076.jpeg 4 152 64 24 32 85 89 24 26 34 62 34 24 207 55 27 34
+Dataset/faces/pic00077.jpeg 1 139 60 78 80
+Dataset/faces/pic00078.jpeg 1 49 50 80 60
+Dataset/faces/pic00079.jpeg 2 120 32 56 62 70 51 33 31
+Dataset/faces/pic00080.jpeg 1 107 56 26 27
+Dataset/faces/pic00081.jpeg 1 319 109 53 71
+Dataset/faces/pic00083.jpeg 1 5 116 132 111
+Dataset/faces/pic00084.jpeg 1 285 88 65 76
+Dataset/faces/pic00085.jpeg 1 22 86 124 121
+Dataset/faces/pic00088.jpeg 1 62 81 123 129
+Dataset/faces/pic00092.jpeg 1 137 58 25 27
+Dataset/faces/pic00093.jpeg 1 88 45 40 36
+Dataset/faces/pic00095.jpeg 1 83 42 75 68
+Dataset/faces/pic00096.jpeg 1 52 54 81 61
+Dataset/faces/pic00097.jpeg 2 251 139 38 36 604 137 36 33
+Dataset/faces/pic00099.jpeg 1 320 47 38 41
+Dataset/faces/pic00100.jpeg 1 90 121 131 188
+Dataset/faces/pic00101.jpeg 1 244 406 373 391
+Dataset/faces/pic00102.jpeg 3 108 64 69 53 234 81 57 50 390 152 49 48
+Dataset/faces/pic00103.jpeg 1 65 21 20 22
+Dataset/faces/pic00104.jpeg 1 129 144 117 118
+Dataset/faces/pic00105.jpeg 1 113 54 26 34
+Dataset/faces/pic00106.jpeg 1 76 93 76 69
+Dataset/faces/pic00107.jpeg 1 51 31 44 49
+Dataset/faces/pic00108.jpeg 1 53 53 40 32
+Dataset/faces/pic00110.jpeg 2 138 139 54 54 218 81 53 57
+Dataset/faces/pic00111.jpeg 1 99 77 47 45
+Dataset/faces/pic00112.jpeg 1 83 27 25 24
+Dataset/faces/pic00113.jpeg 1 65 60 90 73
+Dataset/faces/pic00116.jpeg 1 40 62 56 62
+Dataset/faces/pic00117.jpeg 1 59 50 19 23
+Dataset/faces/pic00118.jpeg 1 505 387 287 249
+Dataset/faces/pic00119.jpeg 1 57 51 62 75
+Dataset/faces/pic00121.jpeg 1 145 100 57 64
+Dataset/faces/pic00122.jpeg 1 66 108 47 44
+Dataset/faces/pic00123.jpeg 12 71 74 29 24 97 68 24 20 129 83 24 18 162 87 23 23 198 84 16 17 220 96 22 14 271 85 22 21 294 96 23 15 318 101 29 16 349 86 24 20 388 94 19 21 428 83 23 24
+Dataset/faces/pic00124.jpeg 1 49 50 63 71
+Dataset/faces/pic00125.jpeg 1 104 67 92 67
+Dataset/faces/pic00126.jpeg 1 57 83 40 33
+Dataset/faces/pic00127.jpeg 1 30 67 93 65
+Dataset/faces/pic00128.jpeg 1 43 54 58 59
+Dataset/faces/pic00132.jpeg 1 53 70 58 47
+Dataset/faces/pic00133.jpeg 1 72 90 45 43
+Dataset/faces/pic00134.jpeg 1 52 49 56 51
+Dataset/faces/pic00135.jpeg 1 49 58 72 99
+Dataset/faces/pic00136.jpeg 2 91 104 51 52 56 1 69 58
+Dataset/faces/pic00138.jpeg 1 88 53 35 30
+Dataset/faces/pic00139.jpeg 2 294 483 63 73 295 412 52 48
+Dataset/faces/pic00142.jpeg 1 44 142 173 152
+Dataset/faces/pic00147.jpeg 1 70 46 42 40
+Dataset/faces/pic00150.jpeg 1 63 59 60 54
+Dataset/faces/pic00152.jpeg 1 103 88 53 38
+Dataset/faces/pic00153.jpeg 1 281 292 104 98
+Dataset/faces/pic00154.jpeg 1 41 47 52 48
+Dataset/faces/pic00156.jpeg 1 81 71 22 14
+Dataset/faces/pic00157.jpeg 1 51 55 45 45
+Dataset/faces/pic00158.jpeg 1 256 157 138 148
+Dataset/faces/pic00160.jpeg 1 48 80 73 58
+Dataset/faces/pic00161.jpeg 1 75 89 130 149
+Dataset/faces/pic00163.jpeg 1 311 97 125 132
+Dataset/faces/pic00165.jpeg 2 86 18 32 27 35 26 30 25
+Dataset/faces/pic00166.jpeg 2 48 32 41 35 99 58 37 34
+Dataset/faces/pic00168.jpeg 1 160 279 165 146
+Dataset/faces/pic00171.jpeg 1 84 106 118 98
+Dataset/faces/pic00174.jpeg 1 101 57 44 34
+Dataset/faces/pic00175.jpeg 1 53 59 81 72
+Dataset/faces/pic00176.jpeg 1 77 96 70 65
+Dataset/faces/pic00180.jpeg 2 52 48 43 44 52 48 43 44
+Dataset/faces/pic00184.jpeg 1 84 27 24 23
+Dataset/faces/pic00187.jpeg 1 92 62 46 44
+Dataset/faces/pic00193.jpeg 1 62 63 32 42
+Dataset/faces/pic00198.jpeg 1 108 61 65 62
+Dataset/faces/pic00200.jpeg 12 77 69 24 25 98 63 24 25 128 81 24 21 162 87 23 22 199 86 15 15 273 84 19 20 222 94 21 26 299 93 24 16 322 96 22 21 354 88 18 25 389 92 22 24 430 83 20 22
+Dataset/faces/pic00201.jpeg 1 41 58 72 69
+Dataset/faces/pic00202.jpeg 1 117 67 67 69
+Dataset/faces/pic00203.jpeg 1 140 33 23 24
+Dataset/faces/pic00204.jpeg 1 63 85 29 32
+Dataset/faces/pic00205.jpeg 1 120 41 31 30
+Dataset/faces/pic00207.jpeg 2 110 47 47 54 150 89 60 43
+Dataset/faces/pic00211.jpeg 1 206 112 58 66
+Dataset/faces/pic00213.jpeg 1 72 21 58 64
+Dataset/faces/pic00214.jpeg 1 58 41 36 37
+Dataset/faces/pic00216.jpeg 1 225 122 112 102
+Dataset/faces/pic00217.jpeg 4 227 44 37 42 105 80 37 45 401 58 22 31 457 47 25 24
+Dataset/faces/pic00218.jpeg 1 111 67 73 63
+Dataset/faces/pic00219.jpeg 1 54 48 66 80
+Dataset/faces/pic00221.jpeg 1 50 80 106 72
+Dataset/faces/pic00223.jpeg 1 57 88 99 116
+Dataset/faces/pic00224.jpeg 1 240 263 138 104
+Dataset/faces/pic00225.jpeg 1 136 71 39 35
+Dataset/faces/pic00227.jpeg 1 37 84 94 108
+Dataset/faces/pic00229.jpeg 1 65 28 61 65
+Dataset/faces/pic00230.jpeg 1 121 90 74 55
+Dataset/faces/pic00231.jpeg 2 131 90 51 54 247 43 52 47
+Dataset/faces/pic00235.jpeg 1 86 38 24 29
+Dataset/faces/pic00237.jpeg 1 60 36 34 31
+Dataset/faces/pic00240.jpeg 1 90 40 43 35
+Dataset/faces/pic00241.jpeg 3 111 167 26 29 173 167 28 27 225 158 24 27
+Dataset/faces/pic00244.jpeg 1 64 65 35 32
+Dataset/faces/pic00245.jpeg 1 49 133 177 159
+Dataset/faces/pic00248.jpeg 1 92 70 54 62
+Dataset/faces/pic00253.jpeg 1 78 42 43 41
+Dataset/faces/pic00257.jpeg 1 173 154 70 68
+Dataset/faces/pic00258.jpeg 1 55 77 99 95
+Dataset/faces/pic00259.jpeg 1 60 79 78 70
+Dataset/faces/pic00260.jpeg 1 51 25 48 41
+Dataset/faces/pic00263.jpeg 1 52 57 43 37
+Dataset/faces/pic00264.jpeg 1 256 161 140 137
+Dataset/faces/pic00265.jpeg 1 55 87 80 84
+Dataset/faces/pic00266.jpeg 1 60 37 32 29
+Dataset/faces/pic00267.jpeg 1 41 54 26 22
+Dataset/faces/pic00270.jpeg 11 19 66 22 18 55 63 17 15 85 70 20 16 86 32 16 16 115 26 20 21 123 53 22 18 122 76 17 21 140 80 20 20 161 64 20 16 188 58 21 15 163 46 12 16
+Dataset/faces/pic00271.jpeg 1 59 80 48 52
+Dataset/faces/pic00273.jpeg 1 315 108 114 106
+Dataset/faces/pic00276.jpeg 2 47 32 42 32 97 60 41 38
+Dataset/faces/pic00277.jpeg 1 110 65 105 110
+Dataset/faces/pic00278.jpeg 1 234 225 91 85
+Dataset/faces/pic00282.jpeg 1 389 275 268 236
+Dataset/faces/pic00284.jpeg 1 68 159 168 204
+Dataset/faces/pic00289.jpeg 1 648 364 138 121
+Dataset/faces/pic00291.jpeg 1 95 53 58 51
+Dataset/faces/pic00292.jpeg 1 264 123 207 187
+Dataset/faces/pic00293.jpeg 1 110 46 46 37
+Dataset/faces/pic00295.jpeg 1 6 122 71 65
+Dataset/faces/pic00296.jpeg 1 109 153 116 99
+Dataset/faces/pic00297.jpeg 1 58 64 63 62
+Dataset/faces/pic00300.jpeg 13 31 55 17 17 89 72 21 20 136 63 22 19 196 78 25 19 261 84 27 19 157 38 24 19 409 76 30 20 369 64 25 19 334 49 21 18 306 69 20 18 283 51 23 21 240 57 21 23 401 49 19 24
+Dataset/faces/pic00301.jpeg 1 65 130 132 132
+Dataset/faces/pic00304.jpeg 1 85 87 68 63
+Dataset/faces/pic00306.jpeg 1 56 85 83 83
+Dataset/faces/pic00307.jpeg 1 78 126 108 98
+Dataset/faces/pic00308.jpeg 1 177 23 34 38
+Dataset/faces/pic00311.jpeg 1 10 80 91 91
+Dataset/faces/pic00312.jpeg 1 81 114 60 53
+Dataset/faces/pic00316.jpeg 1 39 48 55 47
+Dataset/faces/pic00317.jpeg 1 33 64 63 53
+Dataset/faces/pic00320.jpeg 1 42 60 67 55
+Dataset/faces/pic00322.jpeg 1 37 61 73 74
+Dataset/faces/pic00326.jpeg 2 288 240 35 39 394 259 29 35
+Dataset/faces/pic00327.jpeg 1 95 52 78 88
+Dataset/faces/pic00329.jpeg 1 31 47 73 72
+Dataset/faces/pic00330.jpeg 1 43 36 47 35
+Dataset/faces/pic00331.jpeg 1 84 65 66 65
+Dataset/faces/pic00336.jpeg 1 93 67 77 78
+Dataset/faces/pic00337.jpeg 2 195 40 17 17 65 60 16 16
+Dataset/faces/pic00338.jpeg 16 390 159 31 34 325 174 24 29 266 161 28 28 210 165 22 24 152 164 26 20 88 155 25 22 46 152 24 29 71 90 24 25 385 75 25 32 336 83 23 29 321 58 21 27 262 80 26 25 210 74 19 28 157 89 24 20 140 86 15 21 115 86 21 21
+Dataset/faces/pic00341.jpeg 2 205 160 26 25 448 148 42 36
+Dataset/faces/pic00342.jpeg 1 72 73 29 34
+Dataset/faces/pic00343.jpeg 1 60 75 51 46
+Dataset/faces/pic00349.jpeg 1 50 69 74 67
+Dataset/faces/pic00352.jpeg 1 37 29 36 47
+Dataset/faces/pic00355.jpeg 1 58 94 114 111
+Dataset/faces/pic00357.jpeg 2 121 141 40 34 56 139 26 27
+Dataset/faces/pic00359.jpeg 1 179 103 110 119
+Dataset/faces/pic00364.jpeg 2 38 59 37 34 111 70 33 28
+Dataset/faces/pic00368.jpeg 1 44 60 92 82
+Dataset/faces/pic00369.jpeg 8 78 102 22 19 213 91 19 17 139 154 17 15 165 65 14 12 112 68 14 11 143 13 14 15 64 47 16 14 18 72 20 18
+Dataset/faces/pic00370.jpeg 2 157 109 73 66 414 141 68 78
+Dataset/faces/pic00371.jpeg 1 55 33 21 19
+Dataset/faces/pic00372.jpeg 1 65 26 19 16
+Dataset/faces/pic00376.jpeg 1 176 61 21 21
+Dataset/faces/pic00381.jpeg 1 41 63 52 55
+Dataset/faces/pic00382.jpeg 1 30 65 55 50
+Dataset/faces/pic00385.jpeg 1 75 68 49 39
+Dataset/faces/pic00389.jpeg 1 121 80 43 38
+Dataset/faces/pic00392.jpeg 1 60 53 76 67
+Dataset/faces/pic00394.jpeg 2 92 177 71 63 402 187 64 61
+Dataset/faces/pic00396.jpeg 1 102 94 57 61
+Dataset/faces/pic00397.jpeg 6 73 61 35 38 124 48 32 30 175 68 33 33 225 82 29 27 264 62 38 38 313 54 40 36
+Dataset/faces/pic00399.jpeg 1 71 84 96 101
+Dataset/faces/pic00400.jpeg 1 63 30 39 46
+Dataset/faces/pic00401.jpeg 1 59 26 29 23
+Dataset/faces/pic00402.jpeg 5 30 61 19 20 58 42 20 22 96 38 24 31 177 46 21 24 224 62 31 26
+Dataset/faces/pic00406.jpeg 2 212 175 36 46 299 147 40 51
+Dataset/faces/pic00407.jpeg 1 116 67 89 101
+Dataset/faces/pic00408.jpeg 1 125 96 21 26
+Dataset/faces/pic00411.jpeg 1 293 139 46 50
+Dataset/faces/pic00414.jpeg 1 74 74 81 89
+Dataset/faces/pic00416.jpeg 1 99 63 63 62
+Dataset/faces/pic00417.jpeg 1 54 62 50 42
+Dataset/faces/pic00418.jpeg 1 266 39 41 39
+Dataset/faces/pic00419.jpeg 1 64 44 41 33
+Dataset/faces/pic00421.jpeg 1 209 144 22 22
+Dataset/faces/pic00423.jpeg 2 197 103 95 103 320 172 92 111
+Dataset/faces/pic00424.jpeg 1 77 42 52 55
+Dataset/faces/pic00425.jpeg 1 74 69 70 60
+Dataset/faces/pic00426.jpeg 2 179 41 46 41 42 44 49 42
+Dataset/faces/pic00432.jpeg 1 79 43 43 36
+Dataset/faces/pic00434.jpeg 5 49 21 21 18 87 17 22 24 131 14 22 21 172 31 22 20 1 4 21 46
+Dataset/faces/pic00435.jpeg 1 77 37 53 45
+Dataset/faces/pic00438.jpeg 1 170 153 66 62
+Dataset/faces/pic00439.jpeg 1 52 65 99 102
+Dataset/faces/pic00440.jpeg 1 46 89 100 82
+Dataset/faces/pic00441.jpeg 1 47 22 56 44
+Dataset/faces/pic00442.jpeg 1 170 35 18 28
+Dataset/faces/pic00447.jpeg 1 121 80 78 86
+Dataset/faces/pic00448.jpeg 1 111 57 32 32
+Dataset/faces/pic00450.jpeg 1 88 16 33 36
+Dataset/faces/pic00452.jpeg 2 138 32 37 32 66 29 25 31
+Dataset/faces/pic00453.jpeg 2 223 93 31 32 440 108 34 46
+Dataset/faces/pic00457.jpeg 2 125 33 66 53 22 43 63 56
+Dataset/faces/pic00461.jpeg 2 67 82 86 79 222 55 76 86
+Dataset/faces/pic00462.jpeg 1 73 44 75 69
+Dataset/faces/pic00463.jpeg 1 46 79 107 110
+Dataset/faces/pic00467.jpeg 17 104 165 46 41 154 159 32 41 188 140 34 32 238 127 38 32 293 146 33 32 347 162 42 31 402 167 43 42 444 167 40 44 442 31 32 34 364 40 35 33 315 65 33 28 276 50 31 30 231 62 26 27 202 72 30 34 163 57 33 27 119 64 32 28 52 69 36 33
+Dataset/faces/pic00468.jpeg 1 56 36 39 38
+Dataset/faces/pic00469.jpeg 2 163 101 30 26 242 94 29 32
+Dataset/faces/pic00471.jpeg 1 138 86 81 103
+Dataset/faces/pic00472.jpeg 1 248 213 83 90
+Dataset/faces/pic00476.jpeg 1 415 275 231 238
+Dataset/faces/pic00477.jpeg 1 36 79 88 112
+Dataset/faces/pic00478.jpeg 1 67 50 53 51
+Dataset/faces/pic00480.jpeg 1 76 155 177 193
+Dataset/faces/pic00486.jpeg 1 33 54 94 81
+Dataset/faces/pic00490.jpeg 1 116 74 90 96
+Dataset/faces/pic00491.jpeg 1 46 87 122 104
+Dataset/faces/pic00494.jpeg 1 92 47 35 28
+Dataset/faces/pic00495.jpeg 1 15 24 25 22
+Dataset/faces/pic00496.jpeg 2 92 113 34 33 58 30 27 23
+Dataset/faces/pic00498.jpeg 1 31 47 59 55
+Dataset/faces/pic00499.jpeg 1 50 54 58 62
+Dataset/faces/pic00500.jpeg 1 23 11 35 42
+Dataset/faces/pic00506.jpeg 1 84 84 68 71
+Dataset/faces/pic00507.jpeg 1 57 69 58 60
+Dataset/faces/pic00508.jpeg 1 58 87 76 85
+Dataset/faces/pic00509.jpeg 1 79 132 117 97
+Dataset/faces/pic00511.jpeg 1 37 78 30 31
+Dataset/faces/pic00512.jpeg 1 177 22 33 36
+Dataset/faces/pic00513.jpeg 3 48 34 38 39 163 66 38 38 236 76 43 41
+Dataset/faces/pic00517.jpeg 1 264 172 134 121
+Dataset/faces/pic00518.jpeg 1 13 77 94 84
+Dataset/faces/pic00519.jpeg 1 81 110 65 53
+Dataset/faces/pic00523.jpeg 1 44 54 52 57
+Dataset/faces/pic00524.jpeg 1 32 43 66 58
+Dataset/faces/pic00525.jpeg 1 31 57 63 65
+Dataset/faces/pic00529.jpeg 1 40 53 70 60
+Dataset/faces/pic00531.jpeg 1 37 55 78 78
+Dataset/faces/pic00534.jpeg 1 39 48 60 50
+Dataset/faces/pic00537.jpeg 2 288 242 35 40 390 259 39 33
+Dataset/faces/pic00538.jpeg 1 87 65 94 76
+Dataset/faces/pic00541.jpeg 1 37 47 74 64
+Dataset/faces/pic00542.jpeg 1 52 36 34 37
+Dataset/faces/pic00543.jpeg 1 79 69 72 64
+Dataset/faces/pic00544.jpeg 1 61 56 30 22
+Dataset/faces/pic00546.jpeg 1 195 17 26 28
+Dataset/faces/pic00547.jpeg 2 88 283 88 76 194 422 114 85
+Dataset/faces/pic00549.jpeg 1 87 67 74 72
+Dataset/faces/pic00550.jpeg 2 61 61 21 16 191 38 21 17
+Dataset/faces/pic00551.jpeg 1 149 89 82 69
+Dataset/faces/pic00553.jpeg 1 78 31 25 32
+Dataset/faces/pic00554.jpeg 5 180 51 23 25 104 50 21 23 64 50 20 22 38 67 16 19 231 71 29 23
+Dataset/faces/pic00558.jpeg 1 252 52 56 80
+Dataset/faces/pic00559.jpeg 2 86 63 65 64 267 70 61 71
+Dataset/faces/pic00560.jpeg 14 49 159 23 20 83 156 27 20 153 162 24 20 208 166 25 24 268 166 24 20 325 174 26 24 388 163 32 27 383 81 28 28 331 87 25 24 320 63 25 22 260 84 27 23 204 75 26 24 157 88 23 22 137 87 21 20
+Dataset/faces/pic00561.jpeg 1 74 69 85 77
+Dataset/faces/pic00562.jpeg 1 40 46 66 71
+Dataset/faces/pic00563.jpeg 1 192 99 85 61
+Dataset/faces/pic00564.jpeg 1 74 77 70 69
+Dataset/faces/pic00565.jpeg 1 227 90 56 69
+Dataset/faces/pic00566.jpeg 1 26 23 28 29
+Dataset/faces/pic00567.jpeg 1 33 61 97 111
+Dataset/faces/pic00569.jpeg 1 31 41 46 42
+Dataset/faces/pic00571.jpeg 1 35 69 74 66
+Dataset/faces/pic00572.jpeg 1 58 53 93 103
+Dataset/faces/pic00574.jpeg 1 12 41 47 43
+Dataset/faces/pic00576.jpeg 1 110 69 59 57
+Dataset/faces/pic00578.jpeg 1 32 70 75 77
+Dataset/faces/pic00579.jpeg 1 35 32 40 46
+Dataset/faces/pic00583.jpeg 1 62 99 110 102
+Dataset/faces/pic00587.jpeg 1 64 56 47 50
+Dataset/faces/pic00588.jpeg 1 191 111 97 126
+Dataset/faces/pic00589.jpeg 1 180 26 29 23
+Dataset/faces/pic00590.jpeg 2 373 124 103 107 164 286 85 66
+Dataset/faces/pic00592.jpeg 2 161 72 118 126 29 75 55 73
+Dataset/faces/pic00597.jpeg 2 37 56 40 40 114 65 32 39
+Dataset/faces/pic00600.jpeg 10 404 170 49 57 107 82 45 47 157 102 41 40 263 87 44 47 340 91 59 45 456 86 55 47 537 119 52 44 639 66 46 45 571 289 52 69 207 202 57 53
+Dataset/faces/pic00601.jpeg 1 45 50 34 40
+Dataset/faces/pic00603.jpeg 1 48 59 81 90
+Dataset/faces/pic00604.jpeg 9 80 102 17 20 135 149 21 23 209 89 26 22 164 61 15 17 138 14 22 18 63 43 18 21 108 64 22 19 19 71 23 22 19 71 23 22
+Dataset/faces/pic00605.jpeg 2 152 106 84 68 406 148 81 65
+Dataset/faces/pic00606.jpeg 1 66 36 54 40
+Dataset/faces/pic00607.jpeg 1 55 27 24 29
+Dataset/faces/pic00608.jpeg 4 58 36 32 32 117 36 26 28 177 50 22 26 213 37 29 25
+Dataset/faces/pic00615.jpeg 1 174 61 24 22
+Dataset/faces/pic00620.jpeg 1 94 11 28 35
+Dataset/faces/pic00621.jpeg 1 85 148 56 77
+Dataset/faces/pic00625.jpeg 1 35 61 62 62
+Dataset/faces/pic00626.jpeg 1 24 62 65 62
+Dataset/faces/pic00627.jpeg 1 129 79 28 31
+Dataset/faces/pic00628.jpeg 2 132 28 27 24 70 63 28 23
+Dataset/faces/pic00631.jpeg 1 76 63 51 44
+Dataset/faces/pic00633.jpeg 1 64 55 70 84
+Dataset/faces/pic00638.jpeg 1 120 73 48 48
+Dataset/faces/pic00641.jpeg 1 58 46 82 77
+Dataset/faces/pic00642.jpeg 1 65 44 46 55
+Dataset/faces/pic00648.jpeg 1 97 90 69 72
+Dataset/faces/pic00649.jpeg 6 70 53 41 47 124 48 38 33 173 67 35 32 224 75 32 33 260 55 49 44 315 50 36 39
+Dataset/faces/pic00651.jpeg 1 71 85 98 94
+Dataset/faces/pic00652.jpeg 1 57 26 46 47
+Dataset/faces/pic00653.jpeg 1 60 26 27 22
+Dataset/faces/pic00656.jpeg 2 187 102 77 71 349 124 52 59
+Dataset/faces/pic00657.jpeg 1 40 83 103 90
+Dataset/faces/pic00661.jpeg 2 208 173 49 49 297 151 50 50
+Dataset/faces/pic00662.jpeg 1 122 69 93 95
+Dataset/faces/pic00665.jpeg 1 188 162 334 314
+Dataset/faces/pic00671.jpeg 2 77 250 107 100 319 200 127 95
+Dataset/faces/pic00672.jpeg 1 231 263 151 111
+Dataset/faces/pic00673.jpeg 1 132 68 45 37
+Dataset/faces/pic00674.jpeg 1 27 90 115 112
+Dataset/faces/pic00675.jpeg 1 68 33 57 56
+Dataset/faces/pic00676.jpeg 1 123 82 74 71
+Dataset/faces/pic00677.jpeg 1 9 9 28 30
+Dataset/faces/pic00678.jpeg 2 117 76 73 73 245 31 73 71
+Dataset/faces/pic00681.jpeg 1 84 35 24 33
+Dataset/faces/pic00682.jpeg 1 61 31 34 37
+Dataset/faces/pic00684.jpeg 1 85 38 52 38
+Dataset/faces/pic00685.jpeg 3 111 163 27 33 170 162 32 39 229 160 26 27
+Dataset/faces/pic00687.jpeg 1 6 15 55 52
+Dataset/faces/pic00688.jpeg 1 36 40 57 54
+Dataset/faces/pic00691.jpeg 1 20 22 44 38
+Dataset/faces/pic00692.jpeg 2 55 125 45 69 138 46 37 55
+Dataset/faces/pic00693.jpeg 1 10 2 49 46
+Dataset/faces/pic00694.jpeg 1 29 29 50 51
+Dataset/faces/pic00695.jpeg 1 108 130 43 45
+Dataset/faces/pic00696.jpeg 1 17 44 73 54
+Dataset/faces/pic00697.jpeg 1 30 27 56 48
+Dataset/faces/pic00698.jpeg 1 26 25 40 39
+Dataset/faces/pic00699.jpeg 1 33 77 108 94
+Dataset/faces/pic00700.jpeg 1 38 48 31 34
+Dataset/faces/pic00703.jpeg 11 21 66 20 19 54 63 19 17 84 33 19 18 82 68 24 18 122 79 17 15 145 83 13 17 163 62 18 17 188 55 19 19 162 50 18 12 122 59 23 15 114 28 24 20
+Dataset/faces/pic00705.jpeg 1 39 23 35 30
+Dataset/faces/pic00706.jpeg 1 55 47 47 46
+Dataset/faces/pic00708.jpeg 2 39 21 33 41 103 16 37 38
+Dataset/faces/pic00709.jpeg 1 40 36 46 54
+Dataset/faces/pic00710.jpeg 1 167 240 297 363
+Dataset/faces/pic00711.jpeg 1 5 154 36 46
+Dataset/faces/pic00712.jpeg 1 21 27 47 51
+Dataset/faces/pic00715.jpeg 1 30 54 58 61
+Dataset/faces/pic00716.jpeg 1 138 83 138 106
+Dataset/faces/pic00717.jpeg 1 45 42 43 52
+Dataset/faces/pic00719.jpeg 1 589 200 73 82
+Dataset/faces/pic00720.jpeg 1 77 153 20 32
+Dataset/faces/pic00726.jpeg 1 47 32 70 51
+Dataset/faces/pic00735.jpeg 1 468 149 209 265
+Dataset/faces/pic00736.jpeg 1 89 43 71 59
+Dataset/faces/pic00739.jpeg 2 72 88 85 65 220 62 77 73
+Dataset/faces/pic00740.jpeg 1 52 29 47 42
+Dataset/faces/pic00745.jpeg 1 139 35 19 18
+Dataset/faces/pic00746.jpeg 1 70 57 55 50
+Dataset/faces/pic00748.jpeg 1 95 69 67 83
+Dataset/faces/pic00749.jpeg 1 158 201 219 289
+Dataset/faces/pic00752.jpeg 1 47 25 48 50
+Dataset/faces/pic00758.jpeg 1 848 349 68 77
+Dataset/faces/pic00760.jpeg 3 182 149 57 65 240 198 51 45 329 197 54 53
+Dataset/faces/pic00766.jpeg 1 25 59 82 63
+Dataset/faces/pic00780.jpeg 1 59 55 86 82
+Dataset/faces/pic00784.jpeg 1 202 228 227 280
+Dataset/faces/pic00785.jpeg 1 18 63 94 80
+Dataset/faces/pic00786.jpeg 2 49 24 37 47 152 76 37 35
+Dataset/faces/pic00787.jpeg 1 126 64 87 78
+Dataset/faces/pic00789.jpeg 1 50 48 80 91
+Dataset/faces/pic00790.jpeg 1 58 60 42 38
+Dataset/faces/pic00791.jpeg 1 39 50 66 60
+Dataset/faces/pic00792.jpeg 1 57 75 67 67
+Dataset/faces/pic00793.jpeg 1 112 50 100 93
+Dataset/faces/pic00796.jpeg 1 81 112 205 203
+Dataset/faces/pic00797.jpeg 1 62 51 77 62
+Dataset/faces/pic00798.jpeg 1 72 63 64 59
+Dataset/faces/pic00799.jpeg 1 26 68 74 68
+Dataset/faces/pic00800.jpeg 1 119 91 86 66
+Dataset/faces/pic00802.jpeg 1 98 37 59 47
+Dataset/faces/pic00803.jpeg 1 45 80 82 74
+Dataset/faces/pic00804.jpeg 1 41 42 77 64
+Dataset/faces/pic00805.jpeg 1 43 58 65 53
+Dataset/faces/pic00806.jpeg 1 40 14 79 86
+Dataset/faces/pic00808.jpeg 1 65 50 78 68
+Dataset/faces/pic00810.jpeg 1 246 84 46 43
+Dataset/faces/pic00811.jpeg 6 31 15 42 53 87 47 39 44 150 62 32 31 245 54 28 30 305 52 33 38 364 29 58 45
+Dataset/faces/pic00812.jpeg 1 396 252 177 195
+Dataset/faces/pic00813.jpeg 1 158 45 30 33
+Dataset/faces/pic00814.jpeg 1 60 62 58 42
+Dataset/faces/pic00815.jpeg 1 33 67 83 86
+Dataset/faces/pic00816.jpeg 1 58 56 73 60
+Dataset/faces/pic00817.jpeg 1 51 84 103 87
+Dataset/faces/pic00819.jpeg 1 86 27 33 25
+Dataset/faces/pic00820.jpeg 1 49 59 75 73
+Dataset/faces/pic00822.jpeg 1 88 25 35 38
+Dataset/faces/pic00823.jpeg 1 117 93 72 78
+Dataset/faces/pic00824.jpeg 1 31 43 81 71
+Dataset/faces/pic00825.jpeg 1 77 72 139 150
+Dataset/faces/pic00826.jpeg 1 44 65 84 71
+Dataset/faces/pic00827.jpeg 1 68 30 40 53
+Dataset/faces/pic00828.jpeg 1 243 254 215 207
+Dataset/faces/pic00829.jpeg 1 88 28 29 22
+Dataset/faces/pic00830.jpeg 1 52 60 60 68
+Dataset/faces/pic00833.jpeg 1 119 93 70 76
+Dataset/faces/pic00834.jpeg 1 30 46 87 74
+Dataset/faces/pic00836.jpeg 1 95 157 57 61
+Dataset/faces/pic00838.jpeg 1 91 77 128 141
+Dataset/faces/pic00839.jpeg 1 69 59 74 72
+Dataset/faces/pic00840.jpeg 1 49 67 74 62
+Dataset/faces/pic00842.jpeg 1 109 101 107 87
+Dataset/faces/pic00844.jpeg 1 73 8 19 20
+Dataset/faces/pic00845.jpeg 1 92 31 21 24
+Dataset/faces/pic00846.jpeg 1 46 66 58 57
+Dataset/faces/pic00847.jpeg 1 37 54 73 69
+Dataset/faces/pic00850.jpeg 1 993 333 76 76
+Dataset/faces/pic00854.jpeg 1 37 66 48 50
+Dataset/faces/pic00855.jpeg 1 154 23 38 37
+Dataset/faces/pic00856.jpeg 1 40 46 78 76
+Dataset/faces/pic00857.jpeg 1 30 28 49 42
+Dataset/faces/pic00859.jpeg 1 107 72 54 55
+Dataset/faces/pic00862.jpeg 1 141 49 38 33
+Dataset/faces/pic00863.jpeg 1 52 42 68 72
+Dataset/faces/pic00865.jpeg 1 55 56 65 55
+Dataset/faces/pic00867.jpeg 1 39 60 57 54
+Dataset/faces/pic00868.jpeg 1 22 44 49 47
+Dataset/faces/pic00869.jpeg 1 59 68 72 71
+Dataset/faces/pic00870.jpeg 1 72 37 50 44
+Dataset/faces/pic00873.jpeg 1 60 52 58 65
+Dataset/faces/pic00876.jpeg 1 98 42 50 42
+Dataset/faces/pic00877.jpeg 1 57 66 82 76
+Dataset/faces/pic00880.jpeg 1 66 34 51 48
+Dataset/faces/pic00881.jpeg 1 338 214 198 191
+Dataset/faces/pic00882.jpeg 1 36 52 77 85
+Dataset/faces/pic00885.jpeg 2 357 120 156 248 91 184 75 84
+Dataset/faces/pic00886.jpeg 4 105 142 54 70 167 124 57 62 273 90 48 78 350 174 61 63
+Dataset/faces/pic00890.jpeg 1 42 54 77 56
+Dataset/faces/pic00891.jpeg 1 59 53 64 59
+Dataset/faces/pic00898.jpeg 1 55 71 76 60
+Dataset/faces/pic00902.jpeg 1 57 56 61 64
+Dataset/faces/pic00907.jpeg 1 178 122 26 25
+Dataset/faces/pic00910.jpeg 2 122 118 52 40 207 39 35 36
+Dataset/faces/pic00911.jpeg 1 89 24 38 43
+Dataset/faces/pic00913.jpeg 1 59 35 58 57
+Dataset/faces/pic00916.jpeg 1 145 71 46 50
+Dataset/faces/pic00917.jpeg 1 36 51 54 47
+Dataset/faces/pic00919.jpeg 1 36 61 72 86
+Dataset/faces/pic00920.jpeg 1 84 78 72 65
+Dataset/faces/pic00921.jpeg 1 20 67 105 114
+Dataset/faces/pic00922.jpeg 1 278 550 767 691
+Dataset/faces/pic00923.jpeg 1 56 69 50 55
+Dataset/faces/pic00924.jpeg 1 123 165 222 222
+Dataset/faces/pic00925.jpeg 2 118 91 66 56 264 89 55 62
+Dataset/faces/pic00926.jpeg 2 194 75 33 31 110 23 37 40
+Dataset/faces/pic00927.jpeg 1 51 59 76 77
+Dataset/faces/pic00931.jpeg 1 52 59 84 79
+Dataset/faces/pic00933.jpeg 1 20 53 81 93
+Dataset/faces/pic00934.jpeg 1 47 99 118 102
+Dataset/faces/pic00935.jpeg 1 296 167 118 111
+Dataset/faces/pic00938.jpeg 1 44 51 50 53
+Dataset/faces/pic00939.jpeg 1 57 79 59 50
+Dataset/faces/pic00940.jpeg 1 37 65 81 63
+Dataset/faces/pic00941.jpeg 1 45 73 96 79
+Dataset/faces/pic00943.jpeg 1 64 65 92 83
+Dataset/faces/pic00944.jpeg 1 15 181 40 30
+Dataset/faces/pic00945.jpeg 1 42 30 40 38
+Dataset/faces/pic00946.jpeg 1 61 86 80 64
+Dataset/faces/pic00947.jpeg 1 91 109 102 91
+Dataset/faces/pic00948.jpeg 1 51 65 88 72
+Dataset/faces/pic00949.jpeg 1 46 76 83 71
+Dataset/faces/pic00951.jpeg 3 80 36 40 37 104 72 38 31 31 89 39 25
+Dataset/faces/pic00952.jpeg 2 139 124 48 35 209 101 32 35
+Dataset/faces/pic00956.jpeg 1 33 31 58 56
+Dataset/faces/pic00957.jpeg 1 47 74 74 71
+Dataset/faces/pic00958.jpeg 1 59 74 106 93
+Dataset/faces/pic00960.jpeg 1 32 67 93 86
+Dataset/faces/pic00961.jpeg 2 48 51 54 45 48 51 54 45
+Dataset/faces/pic00962.jpeg 1 14 40 93 83
+Dataset/faces/pic00963.jpeg 1 47 69 98 74
+Dataset/faces/pic00965.jpeg 1 45 47 58 49
+Dataset/faces/pic00966.jpeg 1 48 50 79 83
+Dataset/faces/pic00970.jpeg 1 48 63 96 77
+Dataset/faces/pic00972.jpeg 1 25 70 88 67
+Dataset/faces/pic00974.jpeg 1 46 21 68 61
+Dataset/faces/pic00975.jpeg 1 22 47 83 83
+Dataset/faces/pic00978.jpeg 1 245 94 116 111
+Dataset/faces/pic00981.jpeg 1 20 42 81 87
+Dataset/faces/pic00982.jpeg 1 86 65 80 76
+Dataset/faces/pic00983.jpeg 1 118 58 100 76
+Dataset/faces/pic00984.jpeg 2 19 46 52 55 159 34 54 60
+Dataset/faces/pic00986.jpeg 1 11 59 89 91
+Dataset/faces/pic00987.jpeg 1 59 63 90 69
+Dataset/faces/pic00989.jpeg 1 45 40 61 58
+Dataset/faces/pic00990.jpeg 1 68 57 78 78
+Dataset/faces/pic00993.jpeg 1 44 80 97 69
+Dataset/faces/pic00995.jpeg 3 74 34 48 40 106 75 37 32 37 92 30 26
+Dataset/faces/pic01001.jpeg 1 42 83 85 64
+Dataset/faces/pic01002.jpeg 1 63 78 94 86
+Dataset/faces/pic01006.jpeg 1 25 46 79 75
+Dataset/faces/pic01007.jpeg 1 48 59 91 81
+Dataset/faces/pic01008.jpeg 1 85 54 71 97
+Dataset/faces/pic01009.jpeg 1 44 33 60 50
+Dataset/faces/pic01010.jpeg 1 53 56 51 43
+Dataset/faces/pic01012.jpeg 1 21 56 101 101
+Dataset/faces/pic01015.jpeg 1 43 45 60 55
+Dataset/faces/pic01017.jpeg 1 26 40 110 89
+Dataset/faces/pic01018.jpeg 1 58 86 105 115
+Dataset/faces/pic01020.jpeg 1 71 28 41 41
+Dataset/faces/pic01021.jpeg 1 18 58 91 71
+Dataset/faces/pic01022.jpeg 1 70 18 42 27
+Dataset/faces/pic01025.jpeg 1 387 154 86 83
+Dataset/faces/pic01026.jpeg 1 47 60 55 66
+Dataset/faces/pic01027.jpeg 1 43 59 60 54
+Dataset/faces/pic01032.jpeg 1 50 61 68 54
+Dataset/faces/pic01036.jpeg 1 25 45 80 64
+Dataset/faces/pic01037.jpeg 1 61 59 110 92
+Dataset/faces/pic01038.jpeg 1 52 64 107 101
+Dataset/faces/pic01039.jpeg 1 190 72 122 101
+Dataset/faces/pic01042.jpeg 1 259 168 82 82
+Dataset/faces/pic01043.jpeg 1 73 142 176 181
+Dataset/faces/pic01044.jpeg 1 31 66 98 96
+Dataset/faces/pic01045.jpeg 6 367 60 36 32 301 34 48 39 181 42 46 45 232 200 35 32 47 100 48 37 91 32 51 43
+Dataset/faces/pic01046.jpeg 1 75 51 41 32
+Dataset/faces/pic01047.jpeg 1 50 59 74 61
+Dataset/faces/pic01049.jpeg 1 68 43 57 47
+Dataset/faces/pic01050.jpeg 1 38 40 62 64
+Dataset/faces/pic01051.jpeg 1 82 69 149 128
+Dataset/faces/pic01053.jpeg 1 21 93 120 101
+Dataset/faces/pic01054.jpeg 1 515 314 493 445
+Dataset/faces/pic01055.jpeg 1 30 53 78 61
+Dataset/faces/pic01056.jpeg 1 152 95 59 47
+Dataset/faces/pic01058.jpeg 1 132 101 142 154
+Dataset/faces/pic01059.jpeg 1 48 66 111 100
+Dataset/faces/pic01060.jpeg 1 40 60 57 56
+Dataset/faces/pic01062.jpeg 1 47 53 66 75
+Dataset/faces/pic01063.jpeg 1 73 118 75 65
+Dataset/faces/pic01065.jpeg 1 28 35 52 51
+Dataset/faces/pic01067.jpeg 1 40 39 70 72
+Dataset/faces/pic01071.jpeg 1 73 41 66 58
+Dataset/faces/pic01072.jpeg 1 52 25 54 41
+Dataset/faces/pic01073.jpeg 1 160 664 660 591
+Dataset/faces/pic01074.jpeg 3 254 64 26 26 3 62 30 28 154 74 25 27
+Dataset/faces/pic01077.jpeg 1 114 193 264 195
+Dataset/faces/pic01078.jpeg 1 48 20 30 25
+Dataset/faces/pic01080.jpeg 1 54 55 120 104
+Dataset/faces/pic01081.jpeg 2 42 20 57 46 133 74 48 37
+Dataset/faces/pic01082.jpeg 1 52 62 103 84
+Dataset/faces/pic01084.jpeg 1 107 63 63 66
+Dataset/faces/pic01086.jpeg 1 47 95 118 85
+Dataset/faces/pic01087.jpeg 1 105 57 31 39
+Dataset/faces/pic01088.jpeg 1 33 44 116 87
+Dataset/faces/pic01089.jpeg 1 35 41 68 67
+Dataset/faces/pic01090.jpeg 1 24 42 83 70
+Dataset/faces/pic01092.jpeg 1 30 48 77 74
+Dataset/faces/pic01093.jpeg 1 40 36 85 82
+Dataset/faces/pic01095.jpeg 1 47 51 50 44
+Dataset/faces/pic01096.jpeg 1 26 59 88 70
+Dataset/faces/pic01097.jpeg 1 74 58 68 57
+Dataset/faces/pic01098.jpeg 1 27 57 121 102
+Dataset/faces/pic01099.jpeg 1 44 33 75 84
+Dataset/faces/pic01100.jpeg 1 71 31 43 43
+Dataset/faces/pic01101.jpeg 1 31 59 79 75
+Dataset/faces/pic01102.jpeg 1 87 24 60 65
+Dataset/faces/pic01103.jpeg 2 57 21 35 30 57 21 35 30
+Dataset/faces/pic01106.jpeg 1 36 75 75 87
+Dataset/faces/pic01107.jpeg 1 477 491 561 524
+Dataset/faces/pic01109.jpeg 1 95 148 178 177
+Dataset/faces/pic01110.jpeg 1 44 88 129 99
+Dataset/faces/pic01111.jpeg 1 140 57 36 40
+Dataset/faces/pic01112.jpeg 1 114 104 38 30
+Dataset/faces/pic01113.jpeg 1 52 48 101 86
+Dataset/faces/pic01114.jpeg 1 56 73 76 68
+Dataset/faces/pic01117.jpeg 1 34 56 72 90
+Dataset/faces/pic01120.jpeg 1 43 52 65 50
+Dataset/faces/pic01123.jpeg 1 34 55 108 93
+Dataset/faces/pic01124.jpeg 1 61 103 174 171
+Dataset/faces/pic01125.jpeg 1 57 48 122 141
+Dataset/faces/pic01126.jpeg 1 208 140 163 204
+Dataset/faces/pic01127.jpeg 1 86 65 69 67
+Dataset/faces/pic01128.jpeg 2 99 37 76 68 257 42 65 66
+Dataset/faces/pic01129.jpeg 1 491 312 221 213
+Dataset/faces/pic01130.jpeg 1 168 64 58 61
+Dataset/faces/pic01131.jpeg 1 23 35 81 82
+Dataset/faces/pic01132.jpeg 1 25 71 123 11
