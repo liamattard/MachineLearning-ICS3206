@@ -7,6 +7,7 @@
 \usepackage{cite}
 \usepackage{float}
 \usepackage{hyperref}
+\usepackage{titlesec}
 
 \setstretch{1.3}
 \definecolor{monokaibg}{HTML}{272822}
@@ -17,17 +18,22 @@
 \author{Liam Attard [0299300L]}
 \date{}
 
+\titleformat{\section}
+  {\bfseries}
+  {\thesection}
+  {1em}
+  {}
+
 \begin{document}
 
     \maketitle
 
     \section{Viola-Jones technical discussion}
+
         \input{sections/Theory.tex}
 
     \section{Methodology}
-
-                
-
+        \input{sections/Methodology.tex}
 
             \bibliographystyle{IEEEtran}
             \bibliography{VisionAssignment} 
