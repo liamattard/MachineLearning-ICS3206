@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.2)  8 JAN 2021 23:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.6.2)  10 JAN 2021 17:41
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -368,6 +368,21 @@ Package: titlesec 2019/10/16 v2.13 Sectioning titles
 Package titlesec Warning: Non standard sectioning command \subparagraph
 (titlesec)                detected. Using default spacing and no format.
 
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen186
+\ar@mcellbox=\box57
+\extrarowheight=\dimen187
+\NC@list=\toks21
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box58
+) (/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip60
+\multirow@cntb=\count290
+\multirow@dima=\skip61
+\bigstrutjot=\dimen188
 )
 runsystem(which pygmentize && touch Documentation.aex)...executed.
 
@@ -375,50 +390,57 @@ runsystem(rm Documentation.aex)...executed.
 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count290
-\l__pdf_internal_box=\box57
-) (./Documentation.aux)
+\l__kernel_color_stack_int=\count291
+\l__pdf_internal_box=\box59
+) (./Documentation.aux
+
+LaTeX Warning: Label `one' multiply defined.
+
+
+LaTeX Warning: Label `two' multiply defined.
+
+)
 \openout1 = `Documentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 27.
-LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 -- Lines per column: 37 (approximate, difference = 2.78252pt).
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count291
-\scratchdimen=\dimen186
-\scratchbox=\box58
-\nofMPsegments=\count292
-\nofMParguments=\count293
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count294
-\MPscratchDim=\dimen187
-\MPnumerator=\count295
-\makeMPintoPDFobject=\count296
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count292
+\scratchdimen=\dimen189
+\scratchbox=\box60
+\nofMPsegments=\count293
+\nofMParguments=\count294
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count295
+\MPscratchDim=\dimen190
+\MPnumerator=\count296
+\makeMPintoPDFobject=\count297
+\everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-\AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 27.
+\AtBeginShipoutBox=\box61
+Package hyperref Info: Link coloring OFF on input line 37.
  (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -426,11 +448,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count297
+\c@section@level=\count298
 )
-LaTeX Info: Redefining \ref on input line 27.
-LaTeX Info: Redefining \pageref on input line 27.
-LaTeX Info: Redefining \nameref on input line 27.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
  (./Documentation.out) (./Documentation.out)
 \@outlinefile=\write5
 \openout5 = `Documentation.out'.
@@ -442,12 +464,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 9.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 9.
-<./images/sampleOne.png, id=86, 306.14375pt x 302.12875pt>
+<./images/sampleOne.png, id=103, 306.14375pt x 302.12875pt>
 File: ./images/sampleOne.png Graphic file (type png)
 <use ./images/sampleOne.png>
 Package pdftex.def Info: ./images/sampleOne.png  used on input line 43.
 (pdftex.def)             Requested size: 122.45532pt x 120.84935pt.
-<./images/features.png, id=88, 835.12pt x 242.9075pt>
+<./images/features.png, id=105, 835.12pt x 242.9075pt>
 File: ./images/features.png Graphic file (type png)
 <use ./images/features.png>
 Package pdftex.def Info: ./images/features.png  used on input line 51.
@@ -466,28 +488,28 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9.79996> on input line 67.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 67.
-<./images/photo1.png, id=102, 212.795pt x 191.71625pt>
+<./images/photo1.png, id=119, 212.795pt x 191.71625pt>
 File: ./images/photo1.png Graphic file (type png)
 <use ./images/photo1.png>
 Package pdftex.def Info: ./images/photo1.png  used on input line 118.
 (pdftex.def)             Requested size: 106.39723pt x 95.85788pt.
-<./images/photo2.png, id=103, 225.84375pt x 201.75375pt>
+<./images/photo2.png, id=120, 225.84375pt x 201.75375pt>
 File: ./images/photo2.png Graphic file (type png)
 <use ./images/photo2.png>
 Package pdftex.def Info: ./images/photo2.png  used on input line 125.
 (pdftex.def)             Requested size: 112.92159pt x 100.87662pt.
-<./images/cornerValues.png, id=105, 396.48125pt x 214.8025pt>
+<./images/cornerValues.png, id=122, 396.48125pt x 214.8025pt>
 File: ./images/cornerValues.png Graphic file (type png)
 <use ./images/cornerValues.png>
 Package pdftex.def Info: ./images/cornerValues.png  used on input line 137.
 (pdftex.def)             Requested size: 198.24013pt x 107.40099pt.
  [2 <./images/photo1.png> <./images/photo2.png> <./images/cornerValues.png>]
-<./images/selectedFeatures.png, id=124, 767.86874pt x 448.67625pt>
+<./images/selectedFeatures.png, id=141, 767.86874pt x 448.67625pt>
 File: ./images/selectedFeatures.png Graphic file (type png)
 <use ./images/selectedFeatures.png>
 Package pdftex.def Info: ./images/selectedFeatures.png  used on input line 181.
 (pdftex.def)             Requested size: 230.3624pt x 134.60391pt.
-<./images/cascade.png, id=125, 758.835pt x 417.56pt>
+<./images/cascade.png, id=142, 758.835pt x 417.56pt>
 File: ./images/cascade.png Graphic file (type png)
 <use ./images/cascade.png>
 Package pdftex.def Info: ./images/cascade.png  used on input line 199.
@@ -498,18 +520,18 @@ Overfull \hbox (13.59624pt too wide) in paragraph at lines 199--201
  []
 
 ) (./sections/Methodology.tex
-<./images/faceAnnotation.png, id=131, 509.905pt x 587.19376pt>
+<./images/faceAnnotation.png, id=148, 509.905pt x 587.19376pt>
 File: ./images/faceAnnotation.png Graphic file (type png)
 <use ./images/faceAnnotation.png>
 Package pdftex.def Info: ./images/faceAnnotation.png  used on input line 30.
 (pdftex.def)             Requested size: 152.97267pt x 176.15948pt.
-<./images/terminalAnnotation.png, id=132, 1358.07375pt x 316.18124pt>
+<./images/terminalAnnotation.png, id=149, 1358.07375pt x 316.18124pt>
 File: ./images/terminalAnnotation.png Graphic file (type png)
 <use ./images/terminalAnnotation.png>
 Package pdftex.def Info: ./images/terminalAnnotation.png  used on input line 31.
 (pdftex.def)             Requested size: 230.86948pt x 53.75009pt.
  [3 <./images/selectedFeatures.png> <./images/cascade.png>]
-<./images/postxt.png, id=145, 857.2025pt x 346.29375pt>
+<./images/postxt.png, id=162, 857.2025pt x 346.29375pt>
 File: ./images/postxt.png Graphic file (type png)
 <use ./images/postxt.png>
 Package pdftex.def Info: ./images/postxt.png  used on input line 38.
@@ -520,7 +542,108 @@ Package pdftex.def Info: ./images/postxt.png  used on input line 38.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-))) (./Documentation.bbl
+))
+Underfull \vbox (badness 1688) has occurred while \output is active []
+
+ [4 <./images/faceAnnotation.png> <./images/terminalAnnotation.png> <./images/postxt.png>]
+<./images/goodImage2.png, id=175, 936.49875pt x 608.2725pt>
+File: ./images/goodImage2.png Graphic file (type png)
+<use ./images/goodImage2.png>
+Package pdftex.def Info: ./images/goodImage2.png  used on input line 112.
+(pdftex.def)             Requested size: 234.12411pt x 152.06775pt.
+<./images/goodResultPerson.png, id=176, 373.395pt x 259.97125pt>
+File: ./images/goodResultPerson.png Graphic file (type png)
+<use ./images/goodResultPerson.png>
+Package pdftex.def Info: ./images/goodResultPerson.png  used on input line 113.
+(pdftex.def)             Requested size: 238.97198pt x 166.38103pt.
+<./images/goodResultWebcam.png, id=177, 649.42625pt x 577.15625pt>
+File: ./images/goodResultWebcam.png Graphic file (type png)
+<use ./images/goodResultWebcam.png>
+Package pdftex.def Info: ./images/goodResultWebcam.png  used on input line 120.
+(pdftex.def)             Requested size: 194.82938pt x 173.14821pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images/goodImage1.png, id=178, 374.39874pt x 392.46625pt>
+File: ./images/goodImage1.png Graphic file (type png)
+<use ./images/goodImage1.png>
+Package pdftex.def Info: ./images/goodImage1.png  used on input line 127.
+(pdftex.def)             Requested size: 187.19891pt x 196.23264pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./images/goodImage2.png> <./images/goodResultPerson.png> <./images/goodResultWebcam.png> <./images/goodImage1.png>]
+<./images/testing/face1.jpg, id=192, 929.4725pt x 518.93875pt>
+File: ./images/testing/face1.jpg Graphic file (type jpg)
+<use ./images/testing/face1.jpg>
+Package pdftex.def Info: ./images/testing/face1.jpg  used on input line 138.
+(pdftex.def)             Requested size: 92.95268pt x 51.89691pt.
+<./images/testing/face2.jpeg, id=193, 301.125pt x 168.63pt>
+File: ./images/testing/face2.jpeg Graphic file (type jpg)
+<use ./images/testing/face2.jpeg>
+Package pdftex.def Info: ./images/testing/face2.jpeg  used on input line 139.
+(pdftex.def)             Requested size: 90.33818pt x 50.58939pt.
+<./images/testing/face4.jpg, id=194, 200.75pt x 200.75pt>
+File: ./images/testing/face4.jpg Graphic file (type jpg)
+<use ./images/testing/face4.jpg>
+Package pdftex.def Info: ./images/testing/face4.jpg  used on input line 140.
+(pdftex.def)             Requested size: 80.29857pt x 80.29857pt.
+<./images/testing/liverpool.jpg, id=195, 1284.8pt x 722.7pt>
+File: ./images/testing/liverpool.jpg Graphic file (type jpg)
+<use ./images/testing/liverpool.jpg>
+Package pdftex.def Info: ./images/testing/liverpool.jpg  used on input line 141.
+(pdftex.def)             Requested size: 128.48752pt x 72.27423pt.
+
+Overfull \hbox (5.25542pt too wide) in paragraph at lines 157--157
+ []\OT1/ptm/b/n/14 actual
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 161--161
+
+ []
+
+
+Underfull \hbox (badness 2035) in paragraph at lines 161--161
+[]\OT1/ptm/m/n/9 All Back-
+ []
+
+
+Overfull \vbox (0.66681pt too high) detected at line 161
+ []
+
+<./images/art2Image3.png, id=196, 375.4025pt x 259.97125pt>
+File: ./images/art2Image3.png Graphic file (type png)
+<use ./images/art2Image3.png>
+Package pdftex.def Info: ./images/art2Image3.png  used on input line 169.
+(pdftex.def)             Requested size: 187.70079pt x 129.9853pt.
+<./images/art2Image2.png, id=197, 376.40625pt x 390.45876pt>
+File: ./images/art2Image2.png Graphic file (type png)
+<use ./images/art2Image2.png>
+Package pdftex.def Info: ./images/art2Image2.png  used on input line 170.
+(pdftex.def)             Requested size: 188.20265pt x 195.2289pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+<./images/art2Image5.png, id=198, 646.415pt x 575.14874pt>
+File: ./images/art2Image5.png Graphic file (type png)
+<use ./images/art2Image5.png>
+Package pdftex.def Info: ./images/art2Image5.png  used on input line 177.
+(pdftex.def)             Requested size: 193.926pt x 172.54594pt.
+) (./Documentation.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./images/testing/face1.jpg> <./images/testing/face2.jpeg> <./images/testing/face4.jpg> <./images/testing/liverpool.jpg> <./images/art2Image3.png> <./images/art2Image2.png> <./images/art2Image5.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 39.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -547,30 +670,36 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 41.
-[4 <./images/faceAnnotation.png> <./images/terminalAnnotation.png> <./images/postxt.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 41.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 51.
+[7
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 51.
  (./Documentation.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 41.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 41.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 51.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 51.
 Package rerunfilecheck Info: File `Documentation.out' has not changed.
-(rerunfilecheck)             Checksum: D603A9CC316D09F1B65088691A6E828F;1450.
+(rerunfilecheck)             Checksum: E2E67D9F28930DBBDFEA804330339580;1752.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
 runsystem(rm Documentation.pyg)...executed.
 
  ) 
 Here is how much of TeX's memory you used:
- 10201 strings out of 483183
- 174565 string characters out of 5966293
- 484245 words of memory out of 5000000
- 24979 multiletter control sequences out of 15000+600000
- 564583 words of font info for 86 fonts, out of 8000000 for 9000
+ 10399 strings out of 483183
+ 177933 string characters out of 5966293
+ 486976 words of memory out of 5000000
+ 25142 multiletter control sequences out of 15000+600000
+ 565690 words of font info for 87 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 41i,8n,37p,910b,371s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,12n,37p,910b,487s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Documentation.pdf (4 pages, 805044 bytes).
+Output written on Documentation.pdf (7 pages, 3017067 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 172 compressed objects within 2 object streams
- 35 named destinations out of 1000 (max. 500000)
- 211 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 275 PDF objects out of 1000 (max. 8388607)
+ 212 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
